@@ -23,7 +23,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 app.get("/", (req, res) => {
-  res.send(readFileSync(path.join(__dirname, "index.html", "utf8")));
+  res.send(readFileSync(path.join(__dirname, "index.html"), 'utf-8'));
 });
 
 app.post("/chat", async (req, res) => {
