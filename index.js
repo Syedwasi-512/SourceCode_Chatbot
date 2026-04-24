@@ -14,13 +14,15 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get("/widget.js", (req, res) => {
-  res.setHeader('Content-Type', 'application/javascript');
-  res.send(readFileSync("./widget.js", "utf8"));
-});
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+
+app.get("/widget.js", (req, res) => {
+  res.setHeader('Content-Type', 'application/javascript');
+  res.send(readFileSync(path.join(__dirname, "widget.js"), 'utf-8'));
+});
+
+
 
 app.get("/", (req, res) => {
   res.send(readFileSync(path.join(__dirname, "index.html"), 'utf-8'));

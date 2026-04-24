@@ -1,5 +1,5 @@
 (function () {
-  const API_URL = (window.__CHATBOT_API_URL || 'http://localhost:3000') + '/chat';
+  const API_URL = (window.__CHATBOT_API_URL || 'http://localhost:3000') + '/chat' || 'https://source-code-chatbot.vercel.app/chat';
 
   const style = document.createElement('style');
   style.textContent = `
