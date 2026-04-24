@@ -1,6 +1,8 @@
 import express from "express";
 import { chat } from "./chatbot.js";
 import { readFileSync } from "fs";
+import { fileURLToPath } from 'url';
+import path from 'path';
 
 const app = express();
 app.use(express.json());
@@ -17,8 +19,11 @@ app.get("/widget.js", (req, res) => {
   res.send(readFileSync("./widget.js", "utf8"));
 });
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 app.get("/", (req, res) => {
-  res.send(readFileSync("./index.html", "utf8"));
+  res.send(readFileSync(path.join(__dirname, "index.html", "utf8")));
 });
 
 app.post("/chat", async (req, res) => {
