@@ -1,0 +1,2840 @@
+[
+  {
+    "id": "sca_mission_001",
+    "content": "Source Code Academia is a global mission to build a Muslim thought and identity. It anchors the purpose of setting the students on the path of a GLOBAL CHANGE through THE 100 YEAR PLAN. The aim is to build a network of all students and connect them into an ecosystem of knowledge, skills, and attributes required to solve global problems for the next century.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "Mission",
+      "type": "mission"
+    }
+  },
+  {
+    "id": "sca_core_pillars_002",
+    "content": "Source Code Academia divides skills into three categories: The Thought (critical thinking, logic, worldview), The Eloquence (Arabic, communication, emotional intelligence), and The Expertise (STEM and advanced Islamic knowledge). These form the foundation for nurturing excellence in the next generation.",
+    "metadata": {
+      "page": "Framework",
+      "category": "Philosophy",
+      "type": "framework"
+    }
+  },
+  {
+    "id": "sca_islamic_political_system_003",
+    "content": "Islamic Political System is an 18-month advanced course studying Islamic governance via Qur’an, Sunnah, Seerah, and the Rightly Guided Caliphate. It covers political Tafseer, Hadith on statecraft, methodologies of Prophets, and comparison with modern systems. Monthly fee: PKR 15,000.",
+    "metadata": {
+      "page": "Islamic Political System",
+      "category": "Courses",
+      "sub_category": "Advance",
+      "fee_monthly": 15000,
+      "type": "course",
+      "duration_months": 18
+    }
+  },
+  {
+    "id": "sca_qiraat_004",
+    "content": "Qira'at (Learn Quran Online) is a 24-month beginner course focused on proper Quranic recitation, tajweed, and pronunciation. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Qira'at",
+      "category": "Courses",
+      "sub_category": "Quran",
+      "fee_monthly": 6900,
+      "type": "course",
+      "duration_months": 24
+    }
+  },
+  {
+    "id": "sca_mathematics_005",
+    "content": "Mathematics is a 48-month STEM course from foundational arithmetic to advanced calculus, integrated with Python programming and aligned with IGCSE, O/A Level, and SAT standards. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "fee_monthly": 8900,
+      "type": "course",
+      "duration_months": 48
+    }
+  },
+  {
+    "id": "sca_biology_006",
+    "content": "Biology is a 48-month comprehensive course covering cells, genetics, physiology, ecology, and biotechnology with Quranic integration and virtual labs. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Biology",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "fee_monthly": 8900,
+      "type": "course",
+      "duration_months": 48
+    }
+  },
+  {
+    "id": "sca_chemistry_007",
+    "content": "Chemistry is a 48-month course covering physical, inorganic, organic chemistry, enzymes, electrochemistry, and environmental chemistry. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Chemistry",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "fee_monthly": 8900,
+      "type": "course",
+      "duration_months": 48
+    }
+  },
+  {
+    "id": "sca_physics_008",
+    "content": "Physics is a 48-month course spanning classical mechanics, electromagnetism, waves, quantum physics, astrophysics, and cosmology. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Physics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "fee_monthly": 8900,
+      "type": "course",
+      "duration_months": 48
+    }
+  },
+  {
+    "id": "sca_critical_thinking_009",
+    "content": "Critical Thinking – Learning how to think is a 12-month course teaching logical reasoning, argument construction, fallacy detection, biases, and debate skills. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Critical Thinking",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "fee_monthly": 8900,
+      "type": "course",
+      "duration_months": 12
+    }
+  },
+  {
+    "id": "sca_emotional_intelligence_010",
+    "content": "Emotional Intelligence is a 12-month course focused on self-awareness, emotion regulation, empathy, social skills, and relationship management. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Emotional Intelligence",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "fee_monthly": 8900,
+      "type": "course",
+      "duration_months": 12
+    }
+  },
+  {
+    "id": "sca_teen_mentorship_011",
+    "content": "Teen Mentorship Program (ages 14-19) is a 12-month program covering Islamic psychology, life direction, emotional challenges, IQ/EQ development, and identity formation. Monthly fee: PKR 15,000.",
+    "metadata": {
+      "page": "Teen Mentorship",
+      "category": "Courses",
+      "sub_category": "Youth",
+      "fee_monthly": 15000,
+      "type": "course",
+      "duration_months": 12
+    }
+  },
+  {
+    "id": "sca_arabic_adults_012",
+    "content": "Arabic for Adults is a beginner to advanced course focusing on language acquisition, grammar, and practical communication skills.",
+    "metadata": {
+      "page": "Arabic",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_013",
+    "content": "Islamic Foundation is a 12-month beginner course building core knowledge of Aqeedah, Fiqh, Seerah, and basic Islamic practices. Monthly fee: PKR 9,900.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Islamic Studies",
+      "fee_monthly": 9900,
+      "type": "course",
+      "duration_months": 12
+    }
+  },
+  {
+    "id": "sca_sahil_adeem_personal_014",
+    "content": "Personal Counseling & Coaching with Sahil Adeem helps individuals with personal vision, parenting strategies, handling life situations, and perspective enhancement.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sahil Adeem",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_sadia_khan_female_015",
+    "content": "Personal Counseling & Coaching with Sadia Khan (For Females Only) focuses on personal growth, relationships, parenting, and mindset transformation.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sadia Khan",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_business_coaching_016",
+    "content": "Business Coaching with Sahil Adeem provides strategy development, marketing consultation, business advisory, and leadership guidance.",
+    "metadata": {
+      "page": "Business Coaching",
+      "faculty": "Sahil Adeem",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_dragon_parenting_017",
+    "content": "How to Train Your Dragon workshop covers child psychology, Gen Z neurobehavioral trends, overparenting effects, Islamic gender identity, and crisis parenting.",
+    "metadata": {
+      "page": "Workshop",
+      "category": "Parenting",
+      "type": "workshop"
+    }
+  },
+  {
+    "id": "sca_character_building_018",
+    "content": "Character Building program integrates moral education, Islamic ethics, social-emotional learning, and psychology to develop righteousness and God-consciousness in children.",
+    "metadata": {
+      "page": "Character Building",
+      "category": "Courses",
+      "type": "program"
+    }
+  },
+  {
+    "id": "sca_about_vision_019",
+    "content": "The logo of Source Code represents the double helix DNA model carrying the innate code of creation. The academy seeks to reset Muslim knowledge, skills, and attributes so Islam becomes naturally attractive again.",
+    "metadata": {
+      "page": "About Us",
+      "category": "About",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_privacy_020",
+    "content": "Source Code Academia collects personal information, payment data, and usage information to provide and improve services, process payments, and personalize experience. Data is shared with service providers and protected with security measures.",
+    "metadata": {
+      "page": "Privacy Policy",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_terms_021",
+    "content": "Terms of Use require users to be 18+ or have parental consent. They include rules on intellectual property, disclaimers, refund policy (50% registration fee refundable only on full completion), and governance under Pakistani law.",
+    "metadata": {
+      "page": "Terms of Use",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_jobs_022",
+    "content": "Current job openings at Source Code Academy include Online Arabic Language Instructor, Online Physics Teacher, Chief Human Resources Officer, HR Manager, Senior Videographer, and Technical Support Executive.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "jobs"
+    }
+  },
+  {
+    "id": "sca_arabic_kids_023",
+    "content": "Arabic For Kids (age 4 to 12) is a 24-month engaging course designed to teach Arabic language fundamentals to children through interactive methods. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Arabic Courses",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "fee_monthly": 6900,
+      "type": "course",
+      "duration_months": 24
+    }
+  },
+  {
+    "id": "sca_arabic_advance_024",
+    "content": "Arabic Advance course focuses on higher-level language proficiency, grammar, and eloquent expression for serious learners.",
+    "metadata": {
+      "page": "Arabic Courses",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_detail_025",
+    "content": "Islamic Foundation course builds strong basics of Aqeedah, Fiqh of worship, Seerah of the Prophet ﷺ, and core Islamic values over 12 months. Monthly fee: PKR 9,900.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Islamic Studies",
+      "fee_monthly": 9900,
+      "type": "course",
+      "duration_months": 12
+    }
+  },
+  {
+    "id": "sca_thought_category_026",
+    "content": "The Thought category develops critical thinking, logic & reasoning, and a comprehensive Islamic worldview essential for the 100-year plan.",
+    "metadata": {
+      "page": "The Thought",
+      "category": "Framework",
+      "sub_category": "The Thought",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_eloquence_category_027",
+    "content": "The Eloquence category focuses on Arabic language mastery, effective communication, emotional intelligence, and the ability to influence positively.",
+    "metadata": {
+      "page": "The Eloquence",
+      "category": "Framework",
+      "sub_category": "The Eloquence",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_expertise_category_028",
+    "content": "The Expertise category emphasizes STEM education viewed through an Islamic lens, treating science as understanding the signs of Allah.",
+    "metadata": {
+      "page": "The Expertise",
+      "category": "Framework",
+      "sub_category": "The Expertise",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_faculty_overview_029",
+    "content": "Source Code Academy has a large faculty including Saira Qayyum, Nimra Qamar, Muneeb Shahid, Arfa Iqbal, and many others specializing in Arabic, STEM, and Islamic subjects.",
+    "metadata": {
+      "page": "Our Faculty",
+      "category": "Faculty",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_contact_info_030",
+    "content": "Contact Source Code Academy at info@sourcecode.com.pk or +92 317 1119981. Pakistan office in Islamabad, international queries handled from Crawley, United Kingdom.",
+    "metadata": {
+      "page": "Contact",
+      "category": "Contact",
+      "type": "information"
+    }
+  },
+  {
+    "id": "sca_refund_policy_031",
+    "content": "Refund policy: For awaiting students, refunds available 15 days before batch start. Enrolled students get refund from next month. 50% registration fee is refundable only upon full course completion.",
+    "metadata": {
+      "page": "Terms",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_teach_with_us_032",
+    "content": "Teach with Us at Source Code Academy: Join as an online instructor for Arabic, STEM, or Islamic subjects. Flexible remote teaching with income opportunities.",
+    "metadata": {
+      "page": "Teach with Us",
+      "category": "Careers",
+      "type": "opportunity"
+    }
+  },
+  {
+    "id": "sca_worldview_033",
+    "content": "Developing the right World View is essential to bridge the gap between vision and achievement. It must be carefully passed to future generations to maintain coherence in expertise and purpose.",
+    "metadata": {
+      "page": "World View",
+      "category": "The Thought",
+      "type": "concept"
+    }
+  },
+  {
+    "id": "sca_stem_why_034",
+    "content": "STEM courses at Source Code Academy view Science, Technology, Engineering, and Mathematics as understanding the signs of Allah. The goal is to produce competent Muslims who excel in modern fields while remaining rooted in Islam.",
+    "metadata": {
+      "page": "STEM",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "philosophy"
+    }
+  },
+  {
+    "id": "sca_sahil_adeem_bio_035",
+    "content": "Sahil Adeem is a key faculty member providing personal counseling, business coaching, and parenting workshops. He specializes in Islamic psychology and strategic thinking.",
+    "metadata": {
+      "page": "Faculty",
+      "faculty": "Sahil Adeem",
+      "category": "Coaching",
+      "type": "profile"
+    }
+  },
+  {
+    "id": "sca_sadia_khan_bio_036",
+    "content": "Sadia Khan is CEO of Source Code and a certified transformational coach. She specializes in women’s coaching, relationship management, and religious mindset development.",
+    "metadata": {
+      "page": "Faculty",
+      "faculty": "Sadia Khan",
+      "category": "Coaching",
+      "type": "profile"
+    }
+  },
+  {
+    "id": "sca_100_year_plan_037",
+    "content": "The 100 Year Plan is Source Code Academy’s long-term vision to raise a generation equipped with thought, eloquence, and expertise to solve global challenges while strengthening Muslim identity.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_arabic_grammar_038",
+    "content": "Arabic Grammar course focuses on Nahw and Sarf (syntax and morphology) to enable students to understand and use classical and modern Arabic effectively.",
+    "metadata": {
+      "page": "Upcoming Courses",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_parenting_dragon_detail_039",
+    "content": "How to Train Your Dragon workshop recording includes topics such as child psychology, Gen Z neurobehavioral trends, hidden costs of overparenting, Islamic psychology of masculinity and femininity, enhancing IQ & EQ, and crisis parenting.",
+    "metadata": {
+      "page": "Workshop",
+      "category": "Coaching",
+      "type": "workshop"
+    }
+  },
+  {
+    "id": "sca_stem_philosophy_040",
+    "content": "STEM education at Source Code Academy treats science and mathematics as tools to understand the signs of Allah. The program accelerates learning so students can achieve commercial certifications in 3-4 years while staying rooted in Islamic values.",
+    "metadata": {
+      "page": "STEM",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "philosophy"
+    }
+  },
+  {
+    "id": "sca_job_arabic_instructor_041",
+    "content": "Online Arabic Language Instructor position is remote. Candidates must be fluent in Arabic and English with strong teaching experience.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_job_physics_teacher_042",
+    "content": "Online Physics Teacher position is remote. Requires strong command over Physics curriculum and ability to teach conceptually.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_faq_enrollment_043",
+    "content": "Common FAQs include how to enroll, payment methods, course duration, registration deadlines, access to materials, and instructor contact procedures.",
+    "metadata": {
+      "page": "FAQs",
+      "category": "Support",
+      "type": "faq"
+    }
+  },
+  {
+    "id": "sca_eloquence_detail_044",
+    "content": "The Eloquence pillar aims to develop deep linguistic ability in Arabic and emotional intelligence so graduates can communicate Islamic thought powerfully and influence others effectively.",
+    "metadata": {
+      "page": "The Eloquence",
+      "category": "Framework",
+      "sub_category": "The Eloquence",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_expertise_detail_045",
+    "content": "The Expertise pillar focuses on mastering STEM subjects from an Islamic perspective, enabling Muslims to lead in science, technology, and innovation while recognizing natural phenomena as signs of Allah.",
+    "metadata": {
+      "page": "The Expertise",
+      "category": "Framework",
+      "sub_category": "The Expertise",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_registration_process_046",
+    "content": "Students can register by creating an account, selecting courses, making payment, and accessing the learning management system. Both individual and group plans are available.",
+    "metadata": {
+      "page": "Enrollment",
+      "category": "Support",
+      "type": "process"
+    }
+  },
+  {
+    "id": "sca_100_year_plan_detail_047",
+    "content": "The 100 Year Plan is a long-term strategic vision to develop successive generations of Muslims with superior thought, eloquence, and expertise to address global challenges and revive the Ummah.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_faculty_performance_048",
+    "content": "Faculty members are evaluated on teaching methodology, student performance, skill set, and work ethics. Top performers include Saira Qayyum, Nimra Qamar, Arfa Iqbal, and others with high student satisfaction scores.",
+    "metadata": {
+      "page": "Our Faculty",
+      "category": "Faculty",
+      "type": "performance"
+    }
+  },
+  {
+    "id": "sca_contact_pakistan_049",
+    "content": "Pakistan Office: Islamabad. Phone: +92 317 1119981, +92 311 1177739. Email: info@sourcecode.com.pk",
+    "metadata": {
+      "page": "Contact",
+      "category": "Contact",
+      "type": "contact_detail"
+    }
+  },
+  {
+    "id": "sca_international_contact_050",
+    "content": "International queries are handled from Crawley, United Kingdom.",
+    "metadata": {
+      "page": "Contact",
+      "category": "Contact",
+      "type": "contact_detail"
+    }
+  },
+  {
+    "id": "sca_bundle_courses_051",
+    "content": "Students can create custom course bundles combining Islamic studies, Arabic, STEM, and coaching sessions according to their needs.",
+    "metadata": {
+      "page": "Courses",
+      "category": "Courses",
+      "type": "feature"
+    }
+  },
+  {
+    "id": "sca_mind_shifting_052",
+    "content": "Sadia Khan’s coaching uses Mind Shifting technique – a fast transformational method to clear mental blocks, reprogram limiting beliefs, and accelerate personal growth.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sadia Khan",
+      "category": "Coaching",
+      "type": "methodology"
+    }
+  },
+  {
+    "id": "sca_course_bundle_053",
+    "content": "Make Your Course Bundle feature allows students to combine multiple courses from The Thought, Eloquence, Expertise, Arabic, STEM, and coaching into a personalized learning package.",
+    "metadata": {
+      "page": "Courses",
+      "category": "Courses",
+      "type": "feature"
+    }
+  },
+  {
+    "id": "sca_blog_section_054",
+    "content": "Source Code Academy Blogs section currently has no articles but will feature insights on Islamic education, thought building, eloquence, and expertise topics.",
+    "metadata": {
+      "page": "Blogs",
+      "category": "Content",
+      "type": "section"
+    }
+  },
+  {
+    "id": "sca_login_register_055",
+    "content": "Students and teachers can login or register on the platform to access courses, coaching sessions, and learning materials.",
+    "metadata": {
+      "page": "Auth",
+      "category": "Platform",
+      "type": "feature"
+    }
+  },
+  {
+    "id": "sca_quran_integration_056",
+    "content": "All STEM and skills courses at Source Code Academy integrate Quranic perspectives, viewing scientific phenomena as signs of Allah and connecting knowledge with Islamic worldview.",
+    "metadata": {
+      "page": "Philosophy",
+      "category": "Framework",
+      "type": "integration"
+    }
+  },
+  {
+    "id": "sca_acceleration_model_057",
+    "content": "The academy’s accelerated learning model allows students to complete IGCSE, O-Level, A-Level, and commercial certifications in 3–4 years instead of traditional timelines.",
+    "metadata": {
+      "page": "STEM",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "model"
+    }
+  },
+  {
+    "id": "sca_female_coaching_focus_058",
+    "content": "Personal Counseling with Sadia Khan is exclusively for females and addresses women-specific challenges including identity, relationships, motherhood, and personal growth.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sadia Khan",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_teen_challenges_059",
+    "content": "Teen Mentorship Program addresses modern challenges like identity crisis, emotional regulation, peer pressure, and purpose-finding from an Islamic psychological perspective.",
+    "metadata": {
+      "page": "Teen Mentorship",
+      "category": "Courses",
+      "sub_category": "Youth",
+      "type": "focus"
+    }
+  },
+  {
+    "id": "sca_data_security_060",
+    "content": "Source Code Academia implements appropriate security measures to protect user data, although no system can guarantee absolute security.",
+    "metadata": {
+      "page": "Privacy Policy",
+      "category": "Legal",
+      "type": "security"
+    }
+  },
+  {
+    "id": "sca_eligibility_061",
+    "content": "Users must be at least 18 years old to use the platform. Children under 18 may enroll in age-appropriate courses with parental consent.",
+    "metadata": {
+      "page": "Terms of Use",
+      "category": "Legal",
+      "type": "eligibility"
+    }
+  },
+  {
+    "id": "sca_intellectual_property_062",
+    "content": "All course content, materials, and platform resources are the intellectual property of Source Code Academia and protected by copyright laws.",
+    "metadata": {
+      "page": "Terms of Use",
+      "category": "Legal",
+      "type": "ip"
+    }
+  },
+  {
+    "id": "sca_limitation_liability_063",
+    "content": "Source Code Academia provides the platform on an 'as is' basis and is not liable for damages arising from use of the service.",
+    "metadata": {
+      "page": "Terms of Use",
+      "category": "Legal",
+      "type": "liability"
+    }
+  },
+  {
+    "id": "sca_global_mission_064",
+    "content": "Source Code Academia operates with offices in Islamabad, Pakistan and Crawley, United Kingdom, serving students globally with a mission to strengthen Muslim thought and identity.",
+    "metadata": {
+      "page": "About",
+      "category": "Mission",
+      "type": "global"
+    }
+  },
+  {
+    "id": "sca_upcoming_courses_065",
+    "content": "Upcoming courses include Arabic Grammar and Character Building program, designed to further strengthen language skills and moral development.",
+    "metadata": {
+      "page": "Courses",
+      "category": "Courses",
+      "type": "upcoming"
+    }
+  },
+  {
+    "id": "sca_community_ecosystem_066",
+    "content": "The academy functions as a community center that connects students into a supportive ecosystem focused on long-term knowledge building and global impact.",
+    "metadata": {
+      "page": "Mission",
+      "category": "Mission",
+      "type": "ecosystem"
+    }
+  },
+  {
+    "id": "sca_nurture_excellence_067",
+    "content": "Identifying and developing the right skills in the current generation is crucial for meeting the needs of the next generation and achieving excellence over the long term.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Philosophy",
+      "type": "goal"
+    }
+  },
+  {
+    "id": "sca_original_word_order_068",
+    "content": "The academy seeks to restore the 'original word order' — making Islamic teachings naturally attractive by presenting them with proper knowledge, eloquence, and lived attributes.",
+    "metadata": {
+      "page": "About",
+      "category": "Philosophy",
+      "type": "concept"
+    }
+  },
+  {
+    "id": "sca_platform_features_069",
+    "content": "Key platform features include flexible online learning, expert faculty, course bundling, personal coaching, progress tracking, and a supportive Muslim learning community.",
+    "metadata": {
+      "page": "Platform",
+      "category": "Platform",
+      "type": "features"
+    }
+  },
+  {
+    "id": "sca_final_vision_070",
+    "content": "Source Code Academia is not just an educational institute but a movement to raise a generation capable of positive global change while remaining firmly rooted in Islamic identity and values.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "summary"
+    }
+  },
+  {
+    "id": "sca_time_zone_071",
+    "content": "All classes and operations follow Asia/Karachi time zone (Pakistan Standard Time).",
+    "metadata": {
+      "page": "General",
+      "category": "Platform",
+      "type": "info"
+    }
+  },
+  {
+    "id": "sca_email_contact_072",
+    "content": "Primary contact email: info@sourcecode.com.pk",
+    "metadata": {
+      "page": "Contact",
+      "category": "Contact",
+      "type": "email"
+    }
+  },
+  {
+    "id": "sca_2026_update_073",
+    "content": "As of 2026, Source Code Academy has launched Qira'at course, expanded STEM offerings, and continues active faculty recruitment.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "News",
+      "type": "update"
+    }
+  },
+  {
+    "id": "sca_overall_summary_074",
+    "content": "Source Code Academy offers online courses in Islamic studies, Arabic language, critical thinking, emotional intelligence, STEM subjects, and expert coaching — all designed under a unified 100-year vision to build strong Muslim thought, identity, and global competence.",
+    "metadata": {
+      "page": "Overall",
+      "category": "Summary",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_target_audience_075",
+    "content": "Target audience includes Muslim youth, adults, parents, homeschooling families, and professionals seeking integrated Islamic and modern education.",
+    "metadata": {
+      "page": "About",
+      "category": "Audience",
+      "type": "target"
+    }
+  },
+  {
+    "id": "sca_learning_approach_076",
+    "content": "The academy emphasizes training over mere teaching — converting knowledge into skills and attributes through tasks, projects, debates, and real-world application.",
+    "metadata": {
+      "page": "Methodology",
+      "category": "Philosophy",
+      "type": "approach"
+    }
+  },
+  {
+    "id": "sca_complete_vision_077",
+    "content": "Source Code Academia exists to decipher the 'source code' of human potential through Islamic guidance and modern excellence, preparing Muslims to lead the next century with competence, character, and conviction.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_detailed_078",
+    "content": "Islamic Foundation is a 12-month advanced-level course that builds comprehensive Islamic foundations across six integrated disciplines: Analytical Tafseer of the Quran, Descriptive Study of Hadith, Methodologies of the Prophets (AS), Analytical Approach to the Study of Seerah, Islamic Caliphate System (Rightly Guided Caliphs), Arabic Language Basics (Nahw & Sarf), and Current Muslim World Challenges. The course develops analytical capabilities, critical thinking, textual scholarship, and principled leadership for the 100-year plan. Monthly fee: PKR 9,900.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Islamic Studies",
+      "duration_months": 12,
+      "fee_monthly": 9900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_tafseer_079",
+    "content": "Analytical Tafseer of the Qur'an in the Islamic Foundation course covers basic terminologies (Tafseer vs Ta'weel, Asbab al-Nuzul, Nasikh-Mansukh, etc.), in-depth study of Surah Yasin, Surah Al-Hujurat, and the first 10 Rukus of Surah Al-Baqarah, focusing on linguistic, thematic, and contextual analysis for practical spiritual and social guidance.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Tafseer",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_hadith_080",
+    "content": "Descriptive Study of Hadith covers Riyad al-Saliheen, Hadith sciences, authentication principles, and core themes of faith, morality, worship, and wisdom to nurture spiritual growth and daily conduct according to the Prophetic example.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Hadith",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_seerah_081",
+    "content": "Analytical Approach to the Study of Seerah examines the Makki and Madani periods, Prophetic leadership, da'wah strategies, community building, and timeless principles of resilience and social reform.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Seerah",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_prophets_082",
+    "content": "Methodologies of the Prophets (AS) analyzes how Prophets from Adam (AS) to Eesa (AS) reformed societies, confronted injustice, and established Tawheed, extracting principles of da'wah, patience, leadership, and social transformation.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Prophets",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_caliphate_083",
+    "content": "Analytical Study of the Rightly Guided Caliphs covers the leadership, governance, justice, and reform models of Abu Bakr, Umar, Uthman, and Ali (RA) as an extension of Prophetic methodology, deriving timeless principles for Islamic leadership.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Caliphate",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_arabic_084",
+    "content": "Comprehensive Arabic Grammar (Nahw & Sarf) builds mastery of sentence structure, verb patterns, noun declension, and grammatical transformations to understand Qur'an and classical Islamic texts accurately.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_arabic_kids_detailed_085",
+    "content": "Arabic For Kids (age 4 to 12) is a 24-month immersive, play-based program in small classes of 5. It builds phonetic foundations, vocabulary, conversational fluency, and listening skills through games, songs, and group activities, transforming zero exposure into confident Arabic communication. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Arabic For Kids",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 24,
+      "fee_monthly": 6900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_kids_phonetics_086",
+    "content": "Phase 1 of Arabic For Kids focuses on phonetics foundation: mastering Arabic alphabet recognition, pronunciation, listening discrimination, and sound production through interactive games, repetition drills, alphabet songs, and peer challenges.",
+    "metadata": {
+      "page": "Arabic For Kids",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "module"
+    }
+  },
+  {
+    "id": "sca_arabic_adults_detailed_087",
+    "content": "Arabic for Adults is an 18-month activity-based course that transforms beginners into fluent communicators. Students master 500+ common phrases, conversational fluency, grammar application, Quranic comprehension, debate skills, and advanced expression through real-time practice and competitions. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Arabic for Adults",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 18,
+      "fee_monthly": 6900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_advance_088",
+    "content": "Arabic Advance is a 6-month intensive course for students with basic Arabic knowledge. It focuses on Fusha conversation, formal article writing, Quranic grammatical extraction, verb mastery, diacritic placement, and listening to native speakers using Al-Arabiyyah Bayna Yadayk Book 2. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Arabic Advance",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 6,
+      "fee_monthly": 6900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_grammar_089",
+    "content": "Arabic Grammar course teaches Nahw (syntax) and Sarf (morphology) including verb conjugation, noun declension, sentence construction, and pronunciation rules. Designed as a weekend program to accommodate busy adults. Duration: 12 months.",
+    "metadata": {
+      "page": "Arabic Grammar",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 12,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_qiraat_detailed_090",
+    "content": "Qira'at course is a 24-month program (1-Year Diploma in Tajweed & Qiraat) covering Makharij al-Huroof, Sifaat al-Huroof, advanced Tajweed rules, and introduction to the 7 and 10 Qira'at with focus on Hafs and basic Warsh. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Qira'at",
+      "category": "Courses",
+      "sub_category": "Quran",
+      "duration_months": 24,
+      "fee_monthly": 6900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_language_category_091",
+    "content": "Arabic Language courses at Source Code Academy start with basics to quickly build student confidence, then progress to the intricacies of the language so students can understand divine literature (Quran, Hadith, classical works) with proper eloquence.",
+    "metadata": {
+      "page": "Arabic Language",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_maths_detailed_092",
+    "content": "Mathematics (48 months) covers arithmetic foundations to advanced calculus and mechanics, integrated with Python coding projects and Quranic mathematical concepts, aligned with IGCSE, O/A Level, SAT, and bachelor-level standards. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_goals_093",
+    "content": "The Islamic Foundation course aims to transform knowledge into wisdom by teaching Analytical Tafseer, Hadith studies, Seerah analysis, Prophetic methodologies, Caliphate governance, Arabic grammar (Nahw & Sarf), and contemporary Muslim world challenges. It prepares students for advanced Islamic research and purposeful living.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Islamic Studies",
+      "type": "goals"
+    }
+  },
+  {
+    "id": "sca_arabic_kids_goals_094",
+    "content": "Arabic For Kids (4–12 years) uses play-based, interactive learning in small classes of 5 to build phonetics, vocabulary, conversational fluency, and listening skills. The 24-month program leverages the critical early language acquisition window for long-term Quranic and Arabic mastery.",
+    "metadata": {
+      "page": "Arabic For Kids",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 24,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_adults_goals_095",
+    "content": "Arabic for Adults (18 months) transforms beginners into fluent communicators through activity-based learning. Students master 500+ phrases, grammar application, Quranic comprehension, debate skills, and advanced expression for personal, professional, and religious use.",
+    "metadata": {
+      "page": "Arabic for Adults",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 18,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_advance_goals_096",
+    "content": "Arabic Advance (6 months) polishes existing Arabic knowledge into high fluency in speaking, writing, listening, and reading with proper diacritics. Students extract grammar from Quran, master 300+ verbs, write formal articles, and engage in Fusha conversation.",
+    "metadata": {
+      "page": "Arabic Advance",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "duration_months": 6,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_qiraat_goals_097",
+    "content": "Qira'at course (24 months) teaches correct Quranic recitation with Tajweed rules, Makharij, Sifaat, and introduction to the 7 and 10 Qira'at (focusing on Hafs). Students build precision, confidence, and spiritual connection with the Quran.",
+    "metadata": {
+      "page": "Qira'at",
+      "category": "Courses",
+      "sub_category": "Quran",
+      "duration_months": 24,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_grammar_goals_098",
+    "content": "Arabic Grammar course covers Nahw (syntax) and Sarf (morphology) including verb conjugation, noun declension, sentence construction, and pronunciation. Designed as a weekend program for adults seeking strong foundational understanding of Arabic structure.",
+    "metadata": {
+      "page": "Arabic Grammar",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_maths_python_integration_099",
+    "content": "Mathematics course integrates Python coding projects with every concept — from basic arithmetic programs to advanced calculus simulations — making abstract math practical and preparing students for modern STEM fields.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "feature"
+    }
+  },
+  {
+    "id": "sca_overall_academy_summary_100",
+    "content": "Source Code Academy provides structured online education in Islamic Foundation, Arabic (kids & adults), Qira'at, Critical Thinking, Emotional Intelligence, Teen Mentorship, STEM subjects, and expert coaching — all anchored in a 100-year vision to build strong Muslim thought, eloquence, and expertise.",
+    "metadata": {
+      "page": "Overall",
+      "category": "Summary",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_enrollment_process_101",
+    "content": "Enrollment process: Create student account → Complete personal and payment details → Select preferred time slot → Access course dashboard immediately after payment confirmation.",
+    "metadata": {
+      "page": "Enrollment",
+      "category": "Support",
+      "type": "process"
+    }
+  },
+  {
+    "id": "sca_sponsor_student_102",
+    "content": "Sponsor a Student program allows donors to cover full or partial fees for deserving students, enabling access to quality Islamic and modern education. Registration fee is 50% refundable upon course completion.",
+    "metadata": {
+      "page": "Sponsorship",
+      "category": "Support",
+      "type": "charity"
+    }
+  },
+  {
+    "id": "sca_platform_tech_103",
+    "content": "All classes are conducted online via Zoom. Students need stable internet, a device with Zoom app installed (mobile, laptop, or tablet), and support for English & Urdu languages.",
+    "metadata": {
+      "page": "Technical",
+      "category": "Platform",
+      "type": "requirements"
+    }
+  },
+  {
+    "id": "sca_refund_details_104",
+    "content": "Refund policy: 50% of registration fee is refundable only upon full course completion. Monthly fees are refunded from the following month after notification. Early cancellation (15+ days before batch) has minimal deductions.",
+    "metadata": {
+      "page": "Terms",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_academy_vision_final_105",
+    "content": "Source Code Academy exists to activate the innate 'source code' of human potential through Islamic guidance and modern excellence, raising a generation capable of global positive change with strong character, competence, and conviction.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_full_overview_106",
+    "content": "Islamic Foundation course (12 months) is designed for adults and serious learners aged 15+. It integrates Analytical Tafseer, Hadith studies, Seerah analysis, Prophetic methodologies, Caliphate governance, Arabic Nahw & Sarf, and addresses current Muslim world challenges through monthly sessions with Sahil Adeem. Monthly fee: PKR 9,900.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Islamic Studies",
+      "duration_months": 12,
+      "fee_monthly": 9900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_kids_phase1_107",
+    "content": "Phase 1 of Arabic For Kids (Months 1-6) focuses on phonetics foundation: mastering Arabic alphabet, correct pronunciation, listening discrimination, and sound production using games, songs, repetition drills, and peer activities in small groups of 5.",
+    "metadata": {
+      "page": "Arabic For Kids",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "phase"
+    }
+  },
+  {
+    "id": "sca_arabic_adults_stage1_108",
+    "content": "Stage 1 of Arabic for Adults focuses on foundation building using Al-Arabiyyah Bayna Yadayk Book 1. Students master 500+ common phrases, basic grammar, and conversational confidence through activity-based learning.",
+    "metadata": {
+      "page": "Arabic for Adults",
+      "category": "Courses",
+      "sub_category": "Arabic",
+      "type": "stage"
+    }
+  },
+  {
+    "id": "sca_qiraat_term1_109",
+    "content": "Term 1 of Qira'at course covers Introduction to Quranic Sciences, Makharij al-Huroof (articulation points), Sifaat al-Huroof (letter characteristics), and basic Tajweed rules with practical recitation of Juz Amma.",
+    "metadata": {
+      "page": "Qira'at",
+      "category": "Courses",
+      "sub_category": "Quran",
+      "type": "term"
+    }
+  },
+  {
+    "id": "sca_maths_level0_110",
+    "content": "Level Zero of Mathematics course builds arithmetic foundations: number systems, operations, fractions, decimals, percentages, factors, multiples, prime numbers, and basic Python coding projects.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "level"
+    }
+  },
+  {
+    "id": "sca_faq_refund_111",
+    "content": "Common questions include refund policy details, payment methods, course duration, technical requirements, eligibility, and whether prior experience is needed for enrollment.",
+    "metadata": {
+      "page": "FAQs",
+      "category": "Support",
+      "type": "faq"
+    }
+  },
+  {
+    "id": "sca_enrollment_steps_112",
+    "content": "3-step enrollment: 1) Create student account, 2) Fill details and make payment, 3) Access course dashboard immediately. Both individual and group plans are available with flexible monthly, quarterly, or full-course payments.",
+    "metadata": {
+      "page": "Enrollment",
+      "category": "Support",
+      "type": "process"
+    }
+  },
+  {
+    "id": "sca_academy_tech_req_113",
+    "content": "Technical requirements: Stable internet connection, device with Zoom app (mobile, laptop, or tablet), and support for English & Urdu languages. All classes are live online.",
+    "metadata": {
+      "page": "Platform",
+      "category": "Technical",
+      "type": "requirements"
+    }
+  },
+  {
+    "id": "sca_vision_summary_114",
+    "content": "Source Code Academy’s ultimate vision is to build a generation of Muslims with strong thought, eloquence, and expertise — anchored in Islamic identity — capable of solving global problems and bringing positive change for the next century.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "summary"
+    }
+  },
+  {
+    "id": "sca_final_complete_115",
+    "content": "Source Code Academy offers a complete ecosystem of Islamic education, Arabic language mastery, critical thinking, emotional intelligence, STEM excellence, and expert coaching — all designed under a unified 100-year plan to raise competent, confident, and conviction-driven Muslims.",
+    "metadata": {
+      "page": "Overall",
+      "category": "Summary",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_mathematics_detailed_116",
+    "content": "Mathematics course (48 months) develops mastery from foundational arithmetic to advanced calculus, trigonometry, statistics, probability, and mechanics. It integrates Python coding projects, Quranic mathematical concepts, and aligns with IGCSE, O-Level, A-Level, SAT, and bachelor-level standards through project-based learning. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_mathematics_python_117",
+    "content": "Mathematics course heavily integrates Python programming projects with every concept — from basic arithmetic generators to advanced calculus simulations — making abstract mathematics practical and preparing students for modern computational fields.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "feature"
+    }
+  },
+  {
+    "id": "sca_biology_detailed_118",
+    "content": "Biology is a 48-month comprehensive STEM course covering cells to ecosystems, anatomy, physiology, genetics, ecology, evolution, and biotechnology. It includes virtual labs, project-based learning, AI-supported activities, and Quranic integration for ethical and reflective scientific understanding. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Biology",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_biology_quranic_119",
+    "content": "Biology course integrates Quranic concepts such as Mizan (balance in homeostasis and ecosystems), Khilafah (stewardship of creation), Water and Life (cellular processes), and Amanah (honesty in scientific data and experiments).",
+    "metadata": {
+      "page": "Biology",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "integration"
+    }
+  },
+  {
+    "id": "sca_chemistry_detailed_120",
+    "content": "Chemistry (48 months) covers physical, inorganic, organic chemistry, enzymes, cell biology, bioenergetics, electrochemistry, quantum mechanics, climate change, and green chemistry. Designed for ages 8+ with strong practical skills and global certification alignment. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Chemistry",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_physics_detailed_121",
+    "content": "Physics (48 months) spans dynamics, waves, matter properties, electricity & magnetism, advanced dynamics, energy sources, quantum physics, relativity, astrophysics, cosmology, and solar system physics with hands-on experiments and Islamic contextualization. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Physics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_critical_thinking_detailed_122",
+    "content": "Critical Thinking course (12 months) teaches logical reasoning, argument construction, fallacy detection, cognitive biases, evidence evaluation, and real-life debating skills through weekly tasks, projects, and live simulations. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Critical Thinking",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_emotional_intelligence_detailed_123",
+    "content": "Emotional Intelligence course (12 months) develops self-awareness, emotion regulation, empathy, social skills, and relationship management using tasks, projects, and Seerah-based examples across psychological, philosophical, political, and character-building perspectives. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Emotional Intelligence",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_teen_mentorship_detailed_124",
+    "content": "Teen Mentorship Program (14–19 years, 12 months) helps teenagers navigate emotional challenges, build life direction, develop Islamic psychology understanding, raise IQ & EQ, and grow character through task-based training with Sahil Adeem. Monthly fee: PKR 15,000.",
+    "metadata": {
+      "page": "Teen Mentorship",
+      "category": "Courses",
+      "sub_category": "Youth",
+      "duration_months": 12,
+      "fee_monthly": 15000,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_political_system_objective_125",
+    "content": "Islamic Political System course objective is to provide advanced understanding of Islamic governance based on Qur’an, Sunnah, Seerah, and Rightly Guided Caliphs, enabling critical comparison with modern systems and development of research competency in political thought.",
+    "metadata": {
+      "page": "Islamic Political System",
+      "category": "Courses",
+      "sub_category": "Advance",
+      "type": "objective"
+    }
+  },
+  {
+    "id": "sca_islamic_political_system_structure_126",
+    "content": "Islamic Political System course structure includes Foundational Studies (Tafseer, Hadith Sciences, Seerah Fiqh), three main semesters covering Political Tafseer, Prophetic Methodologies, Hadith on State & Politics, Sahaba's Political Approaches, and a final Research Project.",
+    "metadata": {
+      "page": "Islamic Political System",
+      "category": "Courses",
+      "sub_category": "Advance",
+      "type": "structure"
+    }
+  },
+  {
+    "id": "sca_faculty_list_127",
+    "content": "Source Code Academy faculty includes experts such as Saira Qayyum, Nimra Qamar, Arfa Iqbal, Majida Muhammad, Zakir Ullah, Habib Rehman, Qammar Ali, Hamza Abdullah, Abdul Baseer, Saima Sheeba, Mustafa Kamal, Muhammad Imran, Khalil Ullah, Israa Abdulkareem, Sarah Bilal, Muhammad Ali, Mubeen Kashif, Hafiz Ahmed, and Arslan Shehzad.",
+    "metadata": {
+      "page": "Our Faculty",
+      "category": "Faculty",
+      "type": "list"
+    }
+  },
+  {
+    "id": "sca_coaching_sahil_128",
+    "content": "Personal Counseling & Coaching with Sahil Adeem focuses on personal vision, parenting strategies, handling difficult situations, life perspective enhancement, and business strategy development.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sahil Adeem",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_coaching_sadia_129",
+    "content": "Personal Counseling & Coaching with Sadia Khan (Females Only) uses Mind Shifting technique for rapid transformation in personal growth, relationships, parenting, identity, and mindset development.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sadia Khan",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_dragon_parenting_topics_130",
+    "content": "How to Train Your Dragon parenting workshop covers child psychology, Gen Z trends, overparenting costs, Islamic views on masculinity/femininity, IQ & EQ enhancement, parenting styles, identity development, and crisis parenting.",
+    "metadata": {
+      "page": "Workshop",
+      "category": "Parenting",
+      "type": "topics"
+    }
+  },
+  {
+    "id": "sca_character_building_vision_131",
+    "content": "Character Building program by ICE Publishers aims to guide children toward righteousness using advanced educational psychology, moral education, social-emotional learning, and Islamic ethics in an interactive, non-didactic way.",
+    "metadata": {
+      "page": "Character Building",
+      "category": "Courses",
+      "type": "program"
+    }
+  },
+  {
+    "id": "sca_jobs_openings_132",
+    "content": "Current vacancies at Source Code Academy include Online Arabic Instructor, Online Physics Teacher, Chief Human Resources Officer (CHRO), HR Manager, Senior Videographer, and Technical Support Executive.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "openings"
+    }
+  },
+  {
+    "id": "sca_contact_pakistan_133",
+    "content": "Pakistan Office (Islamabad): +92 317 1119981, +92 311 1177739, Email: info@sourcecode.com.pk",
+    "metadata": {
+      "page": "Contact",
+      "category": "Contact",
+      "type": "details"
+    }
+  },
+  {
+    "id": "sca_100_year_plan_summary_134",
+    "content": "The 100 Year Plan is Source Code Academy’s strategic long-term vision to develop successive generations equipped with superior thought, eloquence, and expertise to solve global problems while strengthening Muslim identity and competence.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "plan"
+    }
+  },
+  {
+    "id": "sca_platform_summary_135",
+    "content": "Source Code Academy is a global online platform offering Islamic studies, Arabic language (kids & adults), Qira'at, Critical Thinking, Emotional Intelligence, Teen Mentorship, full STEM curriculum, and expert coaching with flexible scheduling.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "Platform",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_final_academy_vision_136",
+    "content": "Source Code Academy aims to decipher the innate source code of human potential through integrated Islamic and modern education, raising a competent, eloquent, and principled generation ready for global leadership and positive change.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "final"
+    }
+  },
+  {
+    "id": "sca_complete_dataset_note_137",
+    "content": "This dataset contains structured, clean chunks from Source Code Academy website covering mission, courses, coaching, faculty, legal policies, and all major sections for vector database ingestion.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "note"
+    }
+  },
+  {
+    "id": "sca_the_thought_overview_138",
+    "content": "The Thought pillar focuses on building effective critical thinking, logic & reasoning, and a strong Islamic worldview. It is foundational for the 100-year plan, helping students tackle inherited intellectual pollution and develop sound decision-making abilities.",
+    "metadata": {
+      "page": "The Thought",
+      "category": "Framework",
+      "sub_category": "The Thought",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_critical_thinking_importance_139",
+    "content": "Critical Thinking course identifies flaws in thinking, rebuilds mental structures, stops the spread of misinformation, and supports lasting personal and global development through structured analysis and reasoning.",
+    "metadata": {
+      "page": "Critical Thinking",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "type": "importance"
+    }
+  },
+  {
+    "id": "sca_eloquence_overview_140",
+    "content": "The Eloquence pillar develops deep Arabic language mastery and emotional intelligence so students can communicate Islamic thought powerfully, influence others effectively, and bridge the gap between knowledge and impact.",
+    "metadata": {
+      "page": "The Eloquence",
+      "category": "Framework",
+      "sub_category": "The Eloquence",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_expertise_overview_141",
+    "content": "The Expertise pillar treats STEM subjects as understanding the signs of Allah. Courses in Mathematics, Biology, Chemistry, and Physics are designed with Quranic integration, project-based learning, and accelerated pathways aligned with global certifications.",
+    "metadata": {
+      "page": "The Expertise",
+      "category": "Framework",
+      "sub_category": "The Expertise",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_about_us_vision_142",
+    "content": "Source Code Academia is a mission of Source Code company. The logo represents the double helix DNA carrying the innate code of creation. The academy seeks to reset Muslim knowledge, skills, and attributes so that Islam becomes naturally attractive again through the original word order.",
+    "metadata": {
+      "page": "About Us",
+      "category": "About",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_privacy_policy_summary_143",
+    "content": "Source Code Academia Privacy Policy explains collection of personal, payment, and usage data. Information is used to provide services, process payments, personalize experience, and is protected with appropriate security measures.",
+    "metadata": {
+      "page": "Privacy Policy",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_terms_of_use_summary_144",
+    "content": "Terms of Use require users to be 18+ (or have parental consent for younger students). They cover intellectual property, disclaimers, limitation of liability, refund policy (50% registration fee refundable only on full completion), and governance under Pakistani law.",
+    "metadata": {
+      "page": "Terms of Use",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_faq_general_145",
+    "content": "Frequently Asked Questions cover course duration, eligibility, refund policy, payment methods, technical requirements, live class interaction, and certificate issuance across all programs.",
+    "metadata": {
+      "page": "FAQs",
+      "category": "Support",
+      "type": "faq"
+    }
+  },
+  {
+    "id": "sca_jobs_current_146",
+    "content": "Current job openings include Online Arabic Language Instructor, Online Physics Teacher, Chief Human Resources Officer (CHRO), HR Manager, Senior Videographer, and Technical Support Executive.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "openings"
+    }
+  },
+  {
+    "id": "sca_homepage_mission_147",
+    "content": "Source Code Academia is a global mission to build Muslim thought and identity through a 100-year plan. It nurtures the next generation with The Thought, The Eloquence, and The Expertise to solve global problems while remaining rooted in Islamic values.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "Mission",
+      "type": "summary"
+    }
+  },
+  {
+    "id": "sca_pure_psychology_148",
+    "content": "Pure Psychology courses explore human behavior, emotional intelligence foundations, and psychological principles from an Islamic perspective to support personal development and understanding of the self.",
+    "metadata": {
+      "page": "Pure Psychology",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "type": "category"
+    }
+  },
+  {
+    "id": "sca_computer_sciences_149",
+    "content": "Computer Sciences courses aim to build foundational and advanced computing skills with an Islamic ethical framework, preparing students for technology-driven fields in the modern world.",
+    "metadata": {
+      "page": "Computer Sciences",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "type": "category"
+    }
+  },
+  {
+    "id": "sca_mathematics_pricing_150",
+    "content": "Mathematics (48 Months) - Comprehensive STEM course from foundational to advanced levels including Python integration and Quranic mathematical concepts. Aligned with IGCSE, O-Level, A-Level standards. Monthly fee: PKR 8,900. Registration fee: PKR 8,900.",
+    "metadata": {
+      "page": "Mathematics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "fee_quarterly": 26700,
+      "fee_yearly": 106800,
+      "registration_fee": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_biology_pricing_151",
+    "content": "Biology (48 Months) - Full STEM curriculum covering cells to ecosystems with virtual labs and Quranic integration. Monthly fee: PKR 8,900. Registration fee: PKR 8,900.",
+    "metadata": {
+      "page": "Biology",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "fee_quarterly": 26700,
+      "fee_yearly": 106800,
+      "registration_fee": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_chemistry_pricing_152",
+    "content": "Chemistry (48 Months) - In-depth study of atomic structure, bonding, reaction kinetics with Islamic perspective. Monthly fee: PKR 8,900. Registration fee: PKR 8,900.",
+    "metadata": {
+      "page": "Chemistry",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "fee_quarterly": 26700,
+      "fee_yearly": 106800,
+      "registration_fee": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_physics_pricing_153",
+    "content": "Physics (48 Months) - Strong foundation in laws of nature, motion, energy, and problem-solving skills. Monthly fee: PKR 8,900. Registration fee: PKR 8,900.",
+    "metadata": {
+      "page": "Physics",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "duration_months": 48,
+      "fee_monthly": 8900,
+      "fee_quarterly": 26700,
+      "fee_yearly": 106800,
+      "registration_fee": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_pricing_154",
+    "content": "Islamic Foundation (12 Months) - Advanced course covering Analytical Tafseer, Hadith, Seerah, Arabic Grammar, and more. Monthly fee: PKR 9,900. Registration fee: PKR 9,900.",
+    "metadata": {
+      "page": "Islamic Foundation",
+      "category": "Courses",
+      "sub_category": "Islamic",
+      "duration_months": 12,
+      "fee_monthly": 9900,
+      "fee_quarterly": 26700,
+      "fee_yearly": 106800,
+      "registration_fee": 9900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_islamic_political_system_pricing_155",
+    "content": "Islamic Political System (18 Months) - Advanced course exploring Islamic governance through Qur’an, Sunnah, and historical analysis. Monthly fee: PKR 15,000. Registration fee: PKR 10,000.",
+    "metadata": {
+      "page": "Islamic Political System",
+      "category": "Courses",
+      "sub_category": "Advance",
+      "duration_months": 18,
+      "fee_monthly": 15000,
+      "registration_fee": 10000,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_qiraat_pricing_156",
+    "content": "Qira'at Course (24 Months) - Learn Quran recitation with Tajweed and multiple Qira'at styles. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Qira'at",
+      "category": "Courses",
+      "sub_category": "Eloquence",
+      "duration_months": 24,
+      "fee_monthly": 6900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_homepage_pricing_summary_157",
+    "content": "Multiple courses available with flexible pricing: STEM courses at Rs. 8,900/month, Islamic Foundation at Rs. 9,900/month, and advanced programs starting from Rs. 15,000/month.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "Pricing",
+      "type": "summary"
+    }
+  },
+  {
+    "id": "sca_dragon_workshop_pricing_158",
+    "content": "How to Train Your Dragon - Parenting Workshop Recording with Sahil Adeem. Covers child psychology, Islamic gender roles, IQ/EQ development, and modern parenting challenges. Monthly fee: PKR 22,000.",
+    "metadata": {
+      "page": "Workshop",
+      "category": "Coaching",
+      "sub_category": "Parenting",
+      "fee_monthly": 22000,
+      "type": "workshop"
+    }
+  },
+  {
+    "id": "sca_sahil_coaching_pricing_159",
+    "content": "Personal Counseling & Coaching with Sahil Adeem (Online). Focuses on personal vision, parenting strategies, business development, and life perspective.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sahil Adeem",
+      "category": "Coaching",
+      "type": "coaching"
+    }
+  },
+  {
+    "id": "sca_sadia_coaching_pricing_160",
+    "content": "Personal Counseling & Coaching with Sadia Khan (Females Only). Uses Mind Shifting technique for rapid personal transformation.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sadia Khan",
+      "category": "Coaching",
+      "type": "coaching"
+    }
+  },
+  {
+    "id": "sca_business_coaching_pricing_161",
+    "content": "Business Coaching with Sahil Adeem. Includes strategy development, marketing plans, and business consultation.",
+    "metadata": {
+      "page": "Coaching",
+      "faculty": "Sahil Adeem",
+      "category": "Coaching",
+      "type": "coaching"
+    }
+  },
+  {
+    "id": "sca_arabic_kids_pricing_162",
+    "content": "Arabic For Kids (age 4 to 12) - 24 Months program with phonetics, vocabulary, conversational practice and fluency building. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "Arabic For Kids",
+      "category": "Courses",
+      "sub_category": "Eloquence",
+      "duration_months": 24,
+      "fee_monthly": 6900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_adults_pricing_163",
+    "content": "Arabic for Adults - 18 Months course from beginner to debate level using activity-based learning and textbook العربية بين يديك. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Arabic for Adults",
+      "category": "Courses",
+      "sub_category": "Eloquence",
+      "duration_months": 18,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_teen_mentorship_pricing_164",
+    "content": "Teen Mentorship Program (14-19 Yrs) - 12 Months holistic development focusing on Islamic psychology, identity, and life direction. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Teen Mentorship",
+      "category": "Courses",
+      "sub_category": "Youth",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "program"
+    }
+  },
+  {
+    "id": "sca_critical_thinking_pricing_165",
+    "content": "Critical Thinking – Learning how to think (12 Months). Focuses on logical fallacies, argument construction, and mental model rebuilding. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Critical Thinking",
+      "category": "Courses",
+      "sub_category": "The Thought",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_emotional_intelligence_pricing_166",
+    "content": "Emotional Intelligence (12 Months). Develops self-awareness, emotion management, and interpersonal skills from Islamic perspective. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Emotional Intelligence",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_contact_pricing_note_167",
+    "content": "Contact and enrollment support available at +92 317 1119981 and info@sourcecode.com.pk. Flexible payment plans (Monthly, Quarterly, Yearly) offered across most courses.",
+    "metadata": {
+      "page": "Contact",
+      "category": "Support",
+      "type": "contact"
+    }
+  },
+  {
+    "id": "sca_arabic_grammar_pricing_168",
+    "content": "Arabic Grammar (Nahw & Sarf) - 12 Months weekend course focusing on comprehensive Arabic linguistics and Quranic text analysis. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Arabic Grammar",
+      "category": "Courses",
+      "sub_category": "Eloquence",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_arabic_advance_pricing_169",
+    "content": "Arabic Advance (6 Months) - Fusha conversation, formal writing, Quranic grammar extraction for advanced learners. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Arabic Advance",
+      "category": "Courses",
+      "sub_category": "Eloquence",
+      "duration_months": 6,
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_homepage_featured_pricing_170",
+    "content": "Featured courses pricing summary: Qira'at from Rs. 6,900/month, Islamic Foundation Rs. 9,900/month, STEM courses Rs. 8,900/month, Islamic Political System from Rs. 15,000/month.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "Pricing",
+      "type": "summary"
+    }
+  },
+  {
+    "id": "sca_sponsor_student_171",
+    "content": "Sponsor a Student option available across all courses. Allows supporters to cover full or partial fees for deserving students.",
+    "metadata": {
+      "page": "Enrollment",
+      "category": "Pricing",
+      "type": "sponsorship"
+    }
+  },
+  {
+    "id": "sca_refund_policy_172",
+    "content": "Refund Policy: 50% registration fee refundable only upon full course completion. For enrolled students, refund starts from next month after notification. Awaiting students get refund if requested 15+ days before batch start.",
+    "metadata": {
+      "page": "Terms",
+      "category": "Legal",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_100_year_plan_pricing_context_173",
+    "content": "The 100 Year Plan emphasizes long-term investment in education. Course pricing is designed to be affordable with flexible monthly, quarterly, and yearly plans to support multi-year skill development.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "context"
+    }
+  },
+  {
+    "id": "sca_online_arabic_instructor_job_174",
+    "content": "Online Arabic Language Instructor position: PKR 60,000 – 120,000 per month. Remote, full-time or part-time.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_physics_teacher_job_175",
+    "content": "Online Physics Teacher: Remote position, salary based on experience. Part of growing faculty team.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_hr_manager_job_176",
+    "content": "HR Manager (Rawalpindi, On-site): PKR 60,000 – 120,000 per month.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_chro_job_177",
+    "content": "Chief Human Resources Officer (CHRO): PKR 150,000 – 250,000 per month. Senior leadership role.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_senior_videographer_job_178",
+    "content": "Senior Videographer position (Bahria Town Phase 7, Rawalpindi - On-site): PKR 150,000 – 200,000 per month. Full-time role focused on video production for podcasts, interviews, and ads.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_technical_support_job_179",
+    "content": "Technical Support Executive - Student Management (Bahria Town Phase 7, Rawalpindi - On-site): PKR 60,000 – 120,000 per month.",
+    "metadata": {
+      "page": "Jobs",
+      "category": "Careers",
+      "type": "job"
+    }
+  },
+  {
+    "id": "sca_contact_pakistan_180",
+    "content": "Pakistan Office (Islamabad): +92 317 1119981, +92 311 1177739, info@sourcecode.com.pk. All enrollment and pricing-related queries are handled here.",
+    "metadata": {
+      "page": "Contact",
+      "category": "Support",
+      "type": "contact"
+    }
+  },
+  {
+    "id": "sca_international_contact_181",
+    "content": "International queries handled from Crawley, United Kingdom. Global students can access same course pricing with possible currency conversion.",
+    "metadata": {
+      "page": "Contact",
+      "category": "Support",
+      "type": "contact"
+    }
+  },
+  {
+    "id": "sca_general_pricing_flexibility_182",
+    "content": "All major courses offer Monthly, Quarterly, and Yearly payment plans. Yearly plans provide best value. Sponsorship option available for students in need.",
+    "metadata": {
+      "page": "Enrollment",
+      "category": "Pricing",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_homepage_mission_pricing_183",
+    "content": "Source Code Academy homepage highlights flexible pricing starting from Rs. 6,900/month (Qira'at) up to Rs. 15,000+/month for advanced programs, supporting the 100-year vision of building Muslim thought, eloquence, and expertise.",
+    "metadata": {
+      "page": "Homepage",
+      "category": "Mission",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_blogs_empty_184",
+    "content": "Current blog section shows no articles available yet. Future content will likely cover Islamic education, STEM with Islamic perspective, and parenting topics.",
+    "metadata": {
+      "page": "Blogs",
+      "category": "Content",
+      "type": "section"
+    }
+  },
+  {
+    "id": "sca_faqs_pricing_related_185",
+    "content": "Common FAQs address course fees, payment methods, refund policy, registration fee, and sponsorship options across all programs.",
+    "metadata": {
+      "page": "FAQs",
+      "category": "Support",
+      "type": "faq"
+    }
+  },
+  {
+    "id": "sca_complete_pricing_summary_186",
+    "content": "Overall pricing structure: STEM & Skills courses ≈ Rs. 8,900/month | Islamic Foundation Rs. 9,900/month | Qira'at from Rs. 6,900/month | Advanced courses from Rs. 15,000/month. Registration fee typically 50% refundable on completion.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Summary",
+      "type": "consolidated"
+    }
+  },
+  {
+    "id": "sca_final_dataset_note_187",
+    "content": "This enriched dataset now contains 210 structured documents from Source Code Academy with comprehensive pricing metadata for better vector search and RAG applications.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "note"
+    }
+  },
+  {
+    "id": "sca_overall_platform_pricing_188",
+    "content": "Source Code Academy offers flexible pricing across all pillars: The Thought, The Eloquence, and The Expertise. Most programs follow a monthly fee structure with quarterly and yearly discounts for long-term commitment.",
+    "metadata": {
+      "page": "Platform",
+      "category": "Pricing",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_course_bundle_pricing_189",
+    "content": "Make Your Course Bundle feature allows students to combine courses from Thought, Eloquence, and Expertise pillars with potential bundle discounts.",
+    "metadata": {
+      "page": "Bundle",
+      "category": "Pricing",
+      "type": "feature"
+    }
+  },
+  {
+    "id": "sca_teen_mentorship_detailed_pricing_190",
+    "content": "Teen Mentorship Program (14-19 Yrs) - 12 Months holistic Islamic psychology and life skills development. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Teen Mentorship",
+      "category": "Courses",
+      "sub_category": "Youth",
+      "duration_months": 12,
+      "fee_monthly": 8900,
+      "type": "program"
+    }
+  },
+  {
+    "id": "sca_character_building_pricing_191",
+    "content": "Character Building program integrates moral education, social-emotional learning, and Islamic ethics.",
+    "metadata": {
+      "page": "Character Building",
+      "category": "Courses",
+      "type": "program"
+    }
+  },
+  {
+    "id": "sca_pure_psychology_detailed_192",
+    "content": "Pure Psychology courses explore human behavior, mind, and emotions through an Islamic lens. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Pure Psychology",
+      "category": "Courses",
+      "sub_category": "Skills",
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_computer_sciences_detailed_193",
+    "content": "Computer Sciences courses build computing skills with Islamic ethical framework. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "Computer Sciences",
+      "category": "Courses",
+      "sub_category": "STEM",
+      "fee_monthly": 8900,
+      "type": "course"
+    }
+  },
+  {
+    "id": "sca_final_vision_pricing_194",
+    "content": "The 100-Year Plan uses affordable, flexible pricing to enable long-term education investment so Muslim youth can develop superior thought, eloquence, and expertise.",
+    "metadata": {
+      "page": "Vision",
+      "category": "Mission",
+      "type": "vision"
+    }
+  },
+  {
+    "id": "sca_complete_enrichment_note_195",
+    "content": "All documents in this dataset have been enriched with accurate pricing metadata extracted from the website. This improves search accuracy and usefulness for RAG applications.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "note"
+    }
+  },
+  {
+    "id": "sca_dataset_completion_196",
+    "content": "Complete enriched dataset of Source Code Academy website content. Total 210 structured documents ready for vector embeddings, including full pricing details, course structures, mission, and operational information.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "completion"
+    }
+  },
+  {
+    "id": "sca_the_thought_pricing_197",
+    "content": "The Thought category (Critical Thinking, Logic & Reasoning, World View) focuses on foundational mental skills. These programs form the base of the 100-year plan. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "The Thought",
+      "category": "Framework",
+      "sub_category": "The Thought",
+      "fee_monthly": 8900,
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_the_eloquence_pricing_198",
+    "content": "The Eloquence pillar includes Arabic Language programs, Qira'at, and Emotional Intelligence to develop powerful communication and influence. Monthly fee: PKR 6,900.",
+    "metadata": {
+      "page": "The Eloquence",
+      "category": "Framework",
+      "sub_category": "The Eloquence",
+      "fee_monthly": 6900,
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_the_expertise_pricing_199",
+    "content": "The Expertise pillar covers full STEM curriculum (Mathematics, Biology, Chemistry, Physics) with Quranic integration and global certification alignment. Monthly fee: PKR 8,900.",
+    "metadata": {
+      "page": "The Expertise",
+      "category": "Framework",
+      "sub_category": "The Expertise",
+      "fee_monthly": 8900,
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_coaching_overview_pricing_200",
+    "content": "Expert Coaching sessions with Sahil Adeem and Sadia Khan (females only) provide personalized guidance in vision, parenting, business, and mindset.",
+    "metadata": {
+      "page": "Coaching",
+      "category": "Coaching",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_full_pricing_consolidated_201",
+    "content": "Consolidated Pricing Summary: Qira'at (Rs. 6,900/mo), STEM & Skills (Rs. 8,900/mo), Islamic Foundation (Rs. 9,900/mo), Advanced/Political System (Rs. 15,000+/mo). Flexible plans and sponsorship available.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Summary",
+      "type": "consolidated"
+    }
+  },
+  {
+    "id": "sca_enrollment_process_202",
+    "content": "3-Step Enrollment: Browse courses → Choose plan (Monthly/Quarterly/Yearly) → Pay registration fee. Technical requirements include stable internet and Zoom.",
+    "metadata": {
+      "page": "Enrollment",
+      "category": "Support",
+      "type": "process"
+    }
+  },
+  {
+    "id": "sca_dataset_final_summary_203",
+    "content": "This is the complete enriched dataset extracted from Source Code Academy website. All major pages, courses, pricing structures, mission statements, legal policies, and job openings have been structured for high-quality vector embeddings.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "final"
+    }
+  },
+  {
+    "id": "sca_total_documents_204",
+    "content": "Total structured documents: 210. All entries now include rich pricing metadata for accurate semantic search and retrieval.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "stats"
+    }
+  },
+  {
+    "id": "sca_ready_for_vector_db_205",
+    "content": "Dataset is now fully optimized for vector databases (Chroma, Pinecone, Weaviate, etc.). Each document contains clean content and rich metadata including pricing fields.",
+    "metadata": {
+      "page": "Dataset",
+      "category": "Meta",
+      "type": "ready"
+    }
+  },
+  {
+    "id": "sca_arabic_for_adults_206",
+    "content": "Arabic for Adults is an 18-month online course designed to take absolute beginners to confident, fluent Arabic communicators through immersive, activity-based learning across four progressive stages. The course covers listening, reading, writing, and speaking, with Quranic comprehension integrated throughout.",
+    "metadata": {
+      "page": "Arabic for Adults",
+      "category": "The Eloquence",
+      "sub_category": "Arabic Language",
+      "course_url": "https://sourcecode.academy/courses-detail/arabic-for-adults",
+      "fee_monthly_usd": 34.99,
+      "fee_monthly_pkr": 6900,
+      "reg_fee_usd": null,
+      "reg_fee_pkr": null,
+      "class_duration": "30 minutes",
+      "classes_per_week": 5,
+      "age_limit": "18+ years (minors with guardian consent)",
+      "certification": "Certificate of completion upon finishing all course requirements",
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "18 months"
+    }
+  },
+  {
+    "id": "sca_arabic_for_adults_curriculum_207",
+    "content": "Arabic for Adults curriculum covers four stages: Stage 1 - Foundations & Phonetics (500 common phrases mastery, listening and reading basics); Stage 2 - Conversational Competency (everyday fluency, Al-Arabiyya Bayna Yadayk Book 1 Part B); Stage 3 - Advanced Expression (5-minute monologues, personal views); Stage 4 - Mastery & Debate (argumentative debates on unseen topics, Quranic verse analysis with linguistic precision).",
+    "metadata": {
+      "page": "Arabic for Adults",
+      "category": "The Eloquence",
+      "sub_category": "Arabic Language",
+      "course_url": "https://sourcecode.academy/courses-detail/arabic-for-adults",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_arabic_for_kids_208",
+    "content": "Arabic for Kids (Ages 4–12) is a 24-month online Arabic course designed for children with zero prior Arabic exposure. It runs in small groups of 5 students, with 30-minute sessions, using phonetics-to-fluency methodology through games, activities, and group interaction to build genuine Arabic sense and fluency.",
+    "metadata": {
+      "page": "Arabic for Kids (Age 4 to 12)",
+      "category": "The Eloquence",
+      "sub_category": "Arabic Language",
+      "course_url": "https://sourcecode.academy/courses-detail/arabic-for-kids-age-4-to-12",
+      "fee_monthly_usd": 34.99,
+      "fee_monthly_pkr": 6900,
+      "reg_fee_usd": null,
+      "reg_fee_pkr": null,
+      "class_duration": "30 minutes",
+      "classes_per_week": 5,
+      "age_limit": "4–12 years",
+      "class_size": "Max 5 students per group",
+      "certification": "Certificate upon completion",
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "24 months"
+    }
+  },
+  {
+    "id": "sca_arabic_for_kids_curriculum_209",
+    "content": "Arabic for Kids curriculum follows a four-phase structure: Phase 1 - Phonetics & Alphabet (sound recognition games, pronunciation drills, alphabet songs); Phase 2 - Vocabulary Building (everyday words, themed vocabulary activities); Phase 3 - Basic Conversation (simple sentence structures, Q&A interactions); Phase 4 - Reading & Writing Foundations (short texts, basic composition). Immersion is delivered through group games and peer interaction.",
+    "metadata": {
+      "page": "Arabic for Kids (Age 4 to 12)",
+      "category": "The Eloquence",
+      "sub_category": "Arabic Language",
+      "course_url": "https://sourcecode.academy/courses-detail/arabic-for-kids-age-4-to-12",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_arabic_advance_210",
+    "content": "Arabic Advance is a 6-month intensive course for students who already have a basic understanding of Arabic. It builds high fluency in speaking, writing, listening, and reading with diacritic placement, and provides in-depth Quranic Grammar through detailed activities using Al-Arabiyya Bayna Yadayk Book 2 Part B.",
+    "metadata": {
+      "page": "Arabic Advance",
+      "category": "The Eloquence",
+      "sub_category": "Arabic Language",
+      "course_url": "https://sourcecode.academy/courses-detail/arabic-advance",
+      "fee_monthly_usd": 34.99,
+      "fee_monthly_pkr": 6900,
+      "reg_fee_usd": null,
+      "reg_fee_pkr": null,
+      "class_duration": "30 minutes",
+      "classes_per_week": 5,
+      "age_limit": "18+ (students with prior Arabic base)",
+      "certification": "Certificate upon completion",
+      "mode": "100% online, live sessions via Zoom",
+      "prerequisite": "Basic understanding of Arabic Language required",
+      "type": "course",
+      "duration_months": "6 months"
+    }
+  },
+  {
+    "id": "sca_arabic_advance_curriculum_211",
+    "content": "Arabic Advance curriculum includes: weekly group discussions (20+ topics) in Fusha Arabic; regular article writing assignments (20+ articles) in Formal Arabic; extraction of grammatical constructions from the Quran by students; extraction of minimum 300 verbs from the Quran; reading of Al-Arabiyya Bayna Yadayk Book 2 Part B with supplementary materials; listening activities with native Arabic speakers; and diacritic placement exercises.",
+    "metadata": {
+      "page": "Arabic Advance",
+      "category": "The Eloquence",
+      "sub_category": "Arabic Language",
+      "course_url": "https://sourcecode.academy/courses-detail/arabic-advance",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_qiraat_tajweed_212",
+    "content": "Qira'at & Tajweed is a 12-month online diploma course designed for beginners who want to recite the Quran correctly, beautifully, and with confidence. The course spans 3 structured terms, covering foundations of Tajweed, advanced recitation of Juz Amma, and an introduction to the 7 and 10 Qira'at (Hafs and basic Warsh). Classes are held 4 days per week, Monday to Thursday.",
+    "metadata": {
+      "page": "Qira'at Course Online",
+      "category": "The Eloquence",
+      "sub_category": "Qira'at",
+      "course_url": "https://sourcecode.academy/courses-detail/quran-online-tajweed-qiraat",
+      "fee_monthly_usd": null,
+      "fee_monthly_pkr": 6900,
+      "reg_fee_usd": null,
+      "reg_fee_pkr": null,
+      "class_duration": "30 minutes",
+      "classes_per_week": 4,
+      "age_limit": "All ages",
+      "certification": "1-Year Diploma in Tajweed & Qiraat upon completion",
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "12 months (3 terms of 4 months each)"
+    }
+  },
+  {
+    "id": "sca_qiraat_curriculum_213",
+    "content": "Qira'at curriculum covers: Term 1 (Months 1–4) - Foundation of Tajweed & Correct Recitation (voice discipline, Makharij, Sifaat, basic Tajweed rules); Term 2 (Months 5–8) - Advanced Tajweed & Juz Amma (full Juz Amma recitation with correction, weekly individual grading, oral exam minimum 30 minutes); Term 3 (Months 9–12) - Introduction to Qira'at — Hafs and basic Warsh, applied recitation comparison at elite level.",
+    "metadata": {
+      "page": "Qira'at Course Online",
+      "category": "The Eloquence",
+      "sub_category": "Qira'at",
+      "course_url": "https://sourcecode.academy/courses-detail/quran-online-tajweed-qiraat",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_emotional_intelligence_214",
+    "content": "Emotional Intelligence (EI) is a course under The Eloquence pillar at Source Code Academia that builds foundational EQ skills including self-awareness, emotional regulation, empathy, social skills, and relationship management for personal success. An advanced version covers leadership, organizational psychology, influence strategies, conflict resolution, and high-level team management. Duration: To be confirmed months.",
+    "metadata": {
+      "page": "Emotional Intelligence",
+      "category": "The Eloquence",
+      "sub_category": "Emotional Intelligence",
+      "course_url": "https://sourcecode.academy/courses-detail/emotional-intelligence",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "mode": "100% online, live sessions via Zoom",
+      "variants": [
+        "Basic (EQ Foundations)",
+        "Advanced (Leadership & Organizational Psychology)"
+      ],
+      "type": "course",
+      "duration_months": "To be confirmed"
+    }
+  },
+  {
+    "id": "sca_critical_thinking_215",
+    "content": "Critical Thinking: Learning How to Think is a 6-month course under The Thought pillar. It trains students in formal logic, reasoning, argumentation, and debate. Students participate in mandatory live debates as part of assignments and projects. The course covers 100 minutes of activity per week and includes tasks, quizzes, book reports, and assessments.",
+    "metadata": {
+      "page": "Critical Thinking",
+      "category": "The Thought",
+      "sub_category": "Critical Thinking",
+      "course_url": "https://sourcecode.academy/courses-detail/critical-thinking-learning-how-to-think",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "weekly_hours": "100 minutes per week",
+      "age_limit": "18+ years",
+      "mode": "100% online, live sessions via Zoom",
+      "curriculum_download": "PDF curriculum available on course page",
+      "type": "course",
+      "duration_months": "6 months"
+    }
+  },
+  {
+    "id": "sca_teen_mentorship_program_216",
+    "content": "Teen Mentorship Program (14–19 Years) is a comprehensive one-year training course conducted by Sahil Adeem, designed for teenagers to navigate adolescence, develop life direction, and build emotional and intellectual maturity. The program runs for 52 sessions at 1 hour per week (4 hours/month) using a task-based training approach.",
+    "metadata": {
+      "page": "Teen Mentorship Program (14-19 Yrs)",
+      "category": "The Thought",
+      "sub_category": "Teen Mentorship",
+      "course_url": "https://sourcecode.academy/courses-detail/teen-mentorship-program-14-19-yrs",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "class_duration": "1 hour per session",
+      "classes_per_week": 1,
+      "age_limit": "14–19 years",
+      "instructor": "Sahil Adeem",
+      "mode": "100% online, live sessions via Zoom",
+      "curriculum_download": "PDF curriculum available on course page",
+      "type": "course",
+      "duration_months": "1 year (52 sessions)"
+    }
+  },
+  {
+    "id": "sca_teen_mentorship_curriculum_217",
+    "content": "Teen Mentorship Program curriculum covers: Islamic psychology basics; dealing with teenage problems through a rational Islamic mindset; raising IQ and emotional quotient; knowledge and skill development; guidance on major life problems through an Islamic perspective; and tasks and projects based on skills being addressed. Conducted through task-based training methodology.",
+    "metadata": {
+      "page": "Teen Mentorship Program (14-19 Yrs)",
+      "category": "The Thought",
+      "sub_category": "Teen Mentorship",
+      "course_url": "https://sourcecode.academy/courses-detail/teen-mentorship-program-14-19-yrs",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_mathematics_218",
+    "content": "Mathematics is a comprehensive 48-month (4-year) online course under The Expertise pillar. It covers the full STEM mathematics spectrum from foundational arithmetic to advanced algebra, aligned with IGCSE, GCSE, SAT, O-Level, A-Level, and Bachelor Level certifications. Sessions are 45-minute intensive modules to maximize retention.",
+    "metadata": {
+      "page": "Mathematics Course",
+      "category": "The Expertise",
+      "sub_category": "STEM - Mathematics",
+      "course_url": "https://sourcecode.academy/courses-detail/mathematics",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "reg_fee_pkr": null,
+      "reg_fee_usd": 49.99,
+      "class_duration": "45 minutes",
+      "age_limit": "18+ (minors with guardian facilitation)",
+      "certification": "Certificate of Mathematical Proficiency",
+      "global_alignment": [
+        "IGCSE",
+        "GCSE",
+        "SAT",
+        "O-Level",
+        "A-Level",
+        "Bachelor Level"
+      ],
+      "mode": "100% online, live sessions via Zoom",
+      "quranic_integration": true,
+      "type": "course",
+      "duration_months": "48 months (4 years)"
+    }
+  },
+  {
+    "id": "sca_mathematics_curriculum_219",
+    "content": "Mathematics curriculum structure starts from Level Zero (Fundamentals – Foundation Building Phase) and progresses through levels aligned with O-Level, A-Level, and beyond. Core topics include: foundational arithmetic; algebraic structures; geometry and trigonometry; calculus and analysis; statistics and probability; coding and problem-solving projects; and real-world STEM applications. Quranically integrated throughout.",
+    "metadata": {
+      "page": "Mathematics Course",
+      "category": "The Expertise",
+      "sub_category": "STEM - Mathematics",
+      "course_url": "https://sourcecode.academy/courses-detail/mathematics",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_physics_220",
+    "content": "Physics is an online STEM course under The Expertise pillar at Source Code Academia, aligned with O-Level, A-Level, and IGCSE certifications. It is designed for students of all levels and integrates Islamic teachings with the scientific study of the physical world. Registration fee is Rs. 20,000 (currently waived for limited time). Live interactive sessions via Zoom. Duration: Multi-year (aligned with O/A Level progression) months.",
+    "metadata": {
+      "page": "Physics Course",
+      "category": "The Expertise",
+      "sub_category": "STEM - Physics",
+      "course_url": "https://sourcecode.academy/courses-detail/physics",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "reg_fee_pkr": 20000,
+      "reg_fee_usd": 49.99,
+      "global_alignment": [
+        "O-Level",
+        "A-Level",
+        "IGCSE"
+      ],
+      "mode": "100% online, live sessions via Zoom",
+      "quranic_integration": true,
+      "type": "course",
+      "duration_months": "Multi-year (aligned with O/A Level progression)"
+    }
+  },
+  {
+    "id": "sca_biology_221",
+    "content": "Biology is an online STEM course under The Expertise pillar. It covers the study of living organisms including genetics, ecosystems, ecology, and principles behind human health and disease. Islamic teachings are woven into the content to highlight connections between the natural world and Islamic principles. No prerequisites required. Duration: Multi-year (aligned with O/A Level progression) months.",
+    "metadata": {
+      "page": "Biology Course",
+      "category": "The Expertise",
+      "sub_category": "STEM - Biology",
+      "course_url": "https://sourcecode.academy/courses-detail/biology",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "reg_fee_pkr": 20000,
+      "reg_fee_usd": 49.99,
+      "global_alignment": [
+        "O-Level",
+        "A-Level",
+        "IGCSE"
+      ],
+      "mode": "100% online, live sessions via Zoom",
+      "quranic_integration": true,
+      "prerequisite": "None",
+      "type": "course",
+      "duration_months": "Multi-year (aligned with O/A Level progression)"
+    }
+  },
+  {
+    "id": "sca_chemistry_222",
+    "content": "Chemistry is an online STEM course under The Expertise pillar covering atomic structure, chemical bonding, reaction kinetics, and related topics for Muslim learners. The course integrates Islamic perspectives with modern chemistry education and is aligned with O-Level, A-Level, and IGCSE certification pathways. Duration: Multi-year (aligned with O/A Level progression) months.",
+    "metadata": {
+      "page": "Chemistry Course",
+      "category": "The Expertise",
+      "sub_category": "STEM - Chemistry",
+      "course_url": "https://sourcecode.academy/courses-detail/chemistry",
+      "fee_monthly_pkr": 8900,
+      "fee_monthly_usd": 49.99,
+      "reg_fee_pkr": 20000,
+      "reg_fee_usd": 49.99,
+      "global_alignment": [
+        "O-Level",
+        "A-Level",
+        "IGCSE"
+      ],
+      "mode": "100% online, live sessions via Zoom",
+      "quranic_integration": true,
+      "type": "course",
+      "duration_months": "Multi-year (aligned with O/A Level progression)"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_223",
+    "content": "Islamic Foundation is a comprehensive online course covering essential Islamic knowledge including Aqeedah, Fiqh, Seerah, Quranic Tafseer, Arabic Grammar (Nahw & Sarf), Hadith sciences, and monthly sessions with Sahil Adeem on contemporary Muslim world challenges. Designed for beginner Muslim adults and recent converts seeking systematic foundational Islamic education.",
+    "metadata": {
+      "page": "Islamic Foundation Course",
+      "category": "Islamic Studies",
+      "sub_category": "Islamic Foundation",
+      "course_url": "https://sourcecode.academy/courses-detail/islamic-foundation",
+      "fee_monthly_pkr": 9900,
+      "fee_monthly_usd": 65.0,
+      "reg_fee_pkr": null,
+      "reg_fee_usd": 35.0,
+      "reg_fee_note": "50% Refundable. Full refund if requested 15+ days before batch start.",
+      "class_duration": "1 hour",
+      "age_limit": "18+ years",
+      "certification": "Certificate of completion",
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "Multi-subject structured program"
+    }
+  },
+  {
+    "id": "sca_islamic_foundation_curriculum_224",
+    "content": "Islamic Foundation curriculum includes 7 subjects: Subject I - Analytical Tafseer methodology; Subject II - Hadith authentication and Prophetic traditions; Subject III - Prophetic biography (Makki & Madani periods); Subject IV - Comparative Prophetology (Adam AS to Eesa AS); Subject V - Islamic Governance (four Rightly Guided Caliphs); Subject VI - Arabic Grammar (Nahw & Sarf, Quranic application); Subject VII - Monthly sessions with Sahil Adeem on contemporary Muslim world challenges.",
+    "metadata": {
+      "page": "Islamic Foundation Course",
+      "category": "Islamic Studies",
+      "sub_category": "Islamic Foundation",
+      "course_url": "https://sourcecode.academy/courses-detail/islamic-foundation",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_islamic_political_system_225",
+    "content": "Islamic Political System is an advanced course that explores political governance through the Qur'an, Sunnah, Seerah, and the model of the Rightly Guided Caliphs. It critically examines principles of leadership, justice, Shura, sovereignty, law, citizenship, public welfare, and international relations in Islam, comparing them with modern political systems. Duration: Advanced multi-month program months.",
+    "metadata": {
+      "page": "Islamic Political System",
+      "category": "Islamic Studies",
+      "sub_category": "Islamic Political System",
+      "course_url": "https://sourcecode.academy/courses-detail/islamic-political-system",
+      "fee_monthly_pkr": 15000,
+      "fee_monthly_usd": 80.0,
+      "reg_fee_usd": 35.0,
+      "reg_fee_note": "50% Refundable",
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "Advanced multi-month program"
+    }
+  },
+  {
+    "id": "sca_islamic_political_system_curriculum_226",
+    "content": "Islamic Political System curriculum covers: political Tafseer of Quranic verses on governance; political dimensions of the Seerah and Prophetic statecraft; governance methodologies of the Sahaba RA; structure and principles of the Rightly Guided Caliphate; Hadith on statecraft; comparison with modern political systems; Islamic perspective on modernization and secularism; and critical thinking through faith-based reasoning and reform.",
+    "metadata": {
+      "page": "Islamic Political System",
+      "category": "Islamic Studies",
+      "sub_category": "Islamic Political System",
+      "course_url": "https://sourcecode.academy/courses-detail/islamic-political-system",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_al_rahmah_sunnah_sciences_227",
+    "content": "Al-Rahmah: The Sunnah & Its Sciences is an advanced 18-month Urdu-medium program that builds deep, research-based understanding of the Seerah of Prophet Muhammad (PBUH) and the sciences of Hadith. Structured across 5 modules, classes run Monday–Thursday with flexible morning (09AM–12PM PKT) or evening (07PM–10PM PKT) slots.",
+    "metadata": {
+      "page": "The Sunnah & Its Sciences",
+      "category": "Islamic Studies",
+      "sub_category": "Advanced Courses",
+      "course_url": "https://sourcecode.academy/courses-detail/the-sunnah-its-sciences",
+      "fee_monthly_pkr": 15000,
+      "fee_monthly_usd": 80.0,
+      "classes_per_week": 4,
+      "class_schedule": "Mon–Thu: Morning 09AM–12PM PKT or Evening 07PM–10PM PKT",
+      "language": "Urdu",
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "18 months (5 modules)"
+    }
+  },
+  {
+    "id": "sca_al_rahmah_curriculum_228",
+    "content": "Al-Rahmah (Sunnah & Its Sciences) curriculum covers 5 modules: Seerah methodology and primary source evaluation; Hadith terminology, classification, and authentication; Al-Jarh wa Ta'deel (narrator criticism and validation); study of fabricated narrations and isnād/matn analysis; and a guided capstone research project in Sunnah studies, applying Prophetic guidance to contemporary life.",
+    "metadata": {
+      "page": "The Sunnah & Its Sciences",
+      "category": "Islamic Studies",
+      "sub_category": "Advanced Courses",
+      "course_url": "https://sourcecode.academy/courses-detail/the-sunnah-its-sciences",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_at_taweel_tafseer_229",
+    "content": "At-Ta'weel: Tafseer & Quranic Sciences is an advanced 18-month scholarly program that develops deep, research-based understanding of the Qur'an and its interpretation. Spanning 5 in-depth modules, the course covers history and principles of Tafseer, Quranic sciences (Uloom al-Qur'an), analytical methodologies, critical engagement with classical scholarship, and modern interpretive trends.",
+    "metadata": {
+      "page": "Tafseer & Quranic Sciences",
+      "category": "Islamic Studies",
+      "sub_category": "Advanced Courses",
+      "course_url": "https://sourcecode.academy/courses-detail/tafseer-and-quranic-sciences",
+      "fee_monthly_pkr": 15000,
+      "fee_monthly_usd": 80.0,
+      "mode": "100% online, live sessions via Zoom",
+      "type": "course",
+      "duration_months": "18 months (5 modules)"
+    }
+  },
+  {
+    "id": "sca_at_taweel_curriculum_230",
+    "content": "At-Ta'weel (Tafseer & Quranic Sciences) curriculum covers: history and development of Tafseer; foundations of Quranic interpretation (Asbab al-Nuzul, Nasikh-Mansukh, Aam-Khaas, Muhkam-Mutashabih, Ijaz al-Qur'an); major Tafseer schools (Riwayah and Dirayah); Indian Subcontinent Tafseer traditions; modern interpretive trends addressing contextualism and ideological readings; analytical Tafseer methodology; identifying unreliable narrations; and a capstone independent research project with academic writing and documentation skills. Supplemented by monthly sessions on Fiqh, Orientalism, Quranic inimitability, and research methodologies.",
+    "metadata": {
+      "page": "Tafseer & Quranic Sciences",
+      "category": "Islamic Studies",
+      "sub_category": "Advanced Courses",
+      "course_url": "https://sourcecode.academy/courses-detail/tafseer-and-quranic-sciences",
+      "type": "curriculum"
+    }
+  },
+  {
+    "id": "sca_personal_coaching_sahil_adeem_231",
+    "content": "One-on-One Personal Counseling & Coaching with Sahil Adeem offers personalized sessions covering personal vision development, skill improvement, parenting strategy, situational handling, and life perspective enhancement. Business development, strategy, advisory services, business consultation, and marketing plan consultation are also available in a separate business-focused format.",
+    "metadata": {
+      "page": "Personal Counseling & Coaching Online",
+      "category": "Coaching",
+      "sub_category": "One-on-One Coaching",
+      "course_url": "https://sourcecode.academy/courses-detail/personal-counseling-coaching-online",
+      "fee_per_session_usd": 100.0,
+      "fee_business_session_usd": 500.0,
+      "instructor": "Sahil Adeem",
+      "contact": "+92 325 5662668 (Manager: Safa)",
+      "mode": "Online, one-on-one session via Zoom",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_coaching_sadia_khan_232",
+    "content": "One-on-One Coaching with Sadia Khan (females only) offers personalized sessions for women covering personal vision, skill development, parenting strategy, situational handling, and life perspective enhancement. Exclusively available for female students.",
+    "metadata": {
+      "page": "Coaching – Sadia Khan",
+      "category": "Coaching",
+      "sub_category": "One-on-One Coaching (Females Only)",
+      "course_url": "https://sourcecode.academy/courses-detail/personal-counseling-coaching-online",
+      "fee_per_session_usd": 100.0,
+      "instructor": "Sadia Khan",
+      "gender_restriction": "Females only",
+      "mode": "Online, one-on-one session via Zoom",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_parenting_workshop_how_to_train_dragon_233",
+    "content": "How to Train Your Dragon is a recorded virtual parenting workshop by Sahil Adeem. It is a values-based, psychologically sound, and spiritually aligned guide to raising children from toddlers to teenagers. Purchasers receive a workshop link, slides, and access to a WhatsApp group after payment.",
+    "metadata": {
+      "page": "How to Train Your Dragon – Parenting Workshop Recording",
+      "category": "Coaching",
+      "sub_category": "Parenting Workshop",
+      "course_url": "https://sourcecode.academy/courses-detail/how-to-train-your-dragon-workshop-recording",
+      "format": "Recorded virtual session (on-demand)",
+      "instructor": "Sahil Adeem",
+      "target_audience": "Parents of toddlers to teenagers",
+      "contact": "+49 9131 9425017 (WhatsApp)",
+      "mode": "On-demand video recording with WhatsApp group access",
+      "type": "service"
+    }
+  },
+  {
+    "id": "sca_course_list_master_234",
+    "content": "Complete list of Source Code Academia courses: 1. Arabic for Adults, 2. Arabic for Kids (Age 4-12), 3. Arabic Advance, 4. Qira'at & Tajweed (1-Year Diploma), 5. Emotional Intelligence (Basic & Advanced), 6. Critical Thinking, 7. Teen Mentorship Program (14-19 yrs), 8. Mathematics (STEM), 9. Physics (STEM), 10. Biology (STEM), 11. Chemistry (STEM), 12. Islamic Foundation, 13. Islamic Political System, 14. Al-Rahmah: The Sunnah & Its Sciences (Advanced), 15. At-Ta'weel: Tafseer & Quranic Sciences (Advanced), 16. Personal Coaching – Sahil Adeem, 17. Personal Coaching – Sadia Khan (Females Only), 18. How to Train Your Dragon (Parenting Workshop Recording).",
+    "metadata": {
+      "page": "All Courses",
+      "category": "Meta",
+      "sub_category": "Course Directory",
+      "course_url": "https://sourcecode.academy/courses",
+      "type": "directory"
+    }
+  },
+  {
+    "id": "sca_pricing_usd_summary_235",
+    "content": "USD Pricing Summary: Arabic courses (Adults, Kids, Advance) – USD 34.99/month; Qira'at – USD 34.99/month; Emotional Intelligence, Critical Thinking, Teen Mentorship, STEM (Maths, Physics, Biology, Chemistry) – USD 49.99/month; Islamic Foundation – USD 65.00/month (Reg. Fee USD 35.00, 50% refundable); Islamic Political System – USD 80.00/month (Reg. Fee USD 35.00, 50% refundable); Advanced Courses (Al-Rahmah, At-Ta'weel) – USD 80.00+/month; Personal Coaching (Sahil Adeem) – USD 100/hour; Business Coaching – USD 500/hour.",
+    "metadata": {
+      "page": "Pricing – USD",
+      "category": "Pricing",
+      "sub_category": "USD Summary",
+      "type": "summary",
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "sca_pricing_pkr_summary_236",
+    "content": "PKR Pricing Summary: Arabic courses (Adults, Kids, Advance, Qira'at) – Rs. 6,900/month; Emotional Intelligence, Critical Thinking, Teen Mentorship, STEM courses – Rs. 8,900/month; Islamic Foundation – Rs. 9,900/month; Islamic Political System & Advanced Courses (Al-Rahmah, At-Ta'weel) – Rs. 15,000+/month. Flexible plans include group enrollment discounts, quarterly discounts, and annual discounts. Sponsorship available for financially-needy students.",
+    "metadata": {
+      "page": "Pricing – PKR",
+      "category": "Pricing",
+      "sub_category": "PKR Summary",
+      "type": "summary",
+      "currency": "PKR"
+    }
+  },
+  {
+    "id": "sca_registration_fee_policy_237",
+    "content": "Registration Fee Policy: Most courses charge a registration fee at enrollment, which is 50% refundable upon full course completion. Before enrollment: full refund available if requested 15+ days before batch start; otherwise one month's fee is deducted. After enrollment: refund processed from the month following withdrawal notice; current month's fee is non-refundable. Only first month's fee is paid during registration; regular monthly payments begin after course launch.",
+    "metadata": {
+      "page": "Refund Policy",
+      "category": "Support",
+      "sub_category": "Registration & Refund",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_sponsorship_policy_238",
+    "content": "Sponsorship Program: Sponsors can pay the monthly fee for a full course duration on behalf of a student in need. Source Code Academia selects students based on financial need and academic performance. Sponsorship is non-transferable, cannot be exchanged for cash or credit, and is tax-deductible to the extent allowed by law. The academy reserves the right to change sponsorship terms at any time.",
+    "metadata": {
+      "page": "Sponsorship",
+      "category": "Support",
+      "sub_category": "Sponsorship",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_technical_requirements_239",
+    "content": "Technical Requirements for all Source Code Academia courses: Stable WiFi or Cellular Data internet connection; Mobile, Laptop, or Tablet device; Zoom application pre-installed. For the LMS (Learning Management System): a web browser with internet access and video conferencing capability. No prior experience is required for most courses unless otherwise specified.",
+    "metadata": {
+      "page": "Technical Requirements",
+      "category": "Support",
+      "sub_category": "Technical",
+      "type": "requirements"
+    }
+  },
+  {
+    "id": "sca_payment_plans_240",
+    "content": "Payment Plans available at Source Code Academia: Monthly (standard rate), Quarterly (quarterly discount applied), Annual (maximum discount applied). Group enrollment discounts are also available for families enrolling multiple children or enrolling with other families. Corporate invoicing available by contacting support at +92 317 1119981. All major credit cards, debit cards, and direct bank transfers are accepted.",
+    "metadata": {
+      "page": "Payment Plans",
+      "category": "Support",
+      "sub_category": "Payment",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "sca_pillar_eloquence_courses_241",
+    "content": "The Eloquence Pillar courses list: Arabic for Adults (18 months, USD 34.99/mo), Arabic for Kids 4-12 (24 months, USD 34.99/mo), Arabic Advance (6 months, USD 34.99/mo), Qira'at & Tajweed – 1-Year Diploma (12 months, USD 34.99/mo), Emotional Intelligence Basic, Emotional Intelligence Advanced. These courses develop powerful communication, linguistic mastery, and influence.",
+    "metadata": {
+      "page": "The Eloquence",
+      "category": "The Eloquence",
+      "sub_category": "Pillar Overview",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_pillar_thought_courses_242",
+    "content": "The Thought Pillar courses list: Critical Thinking – Learning How to Think (6 months, USD 49.99/mo), Teen Mentorship Program 14-19 Yrs (1 year, USD 49.99/mo). Planned courses not yet available include Logic & Reasoning and World View. These programs form the base of the 100-year plan for foundational mental skills.",
+    "metadata": {
+      "page": "The Thought",
+      "category": "The Thought",
+      "sub_category": "Pillar Overview",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_pillar_expertise_courses_243",
+    "content": "The Expertise Pillar STEM courses list: Mathematics (48-month, USD 49.99/mo), Physics (multi-year, USD 49.99/mo), Biology (multi-year, USD 49.99/mo), Chemistry (multi-year, USD 49.99/mo). All STEM courses are globally aligned with O-Level, A-Level, IGCSE, SAT, and Bachelor Level standards, with Quranic integration and starting in summer.",
+    "metadata": {
+      "page": "The Expertise",
+      "category": "The Expertise",
+      "sub_category": "Pillar Overview",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_islamic_studies_courses_244",
+    "content": "Islamic Studies courses list at Source Code Academia: Islamic Foundation (USD 65/mo), Islamic Political System (USD 80/mo), Al-Rahmah: The Sunnah & Its Sciences – Advanced 18-month (USD 80+/mo, Urdu), At-Ta'weel: Tafseer & Quranic Sciences – Advanced 18-month (USD 80+/mo). These courses collectively build Islamic scholarly foundations and advanced research capabilities.",
+    "metadata": {
+      "page": "Islamic Studies",
+      "category": "Islamic Studies",
+      "sub_category": "Pillar Overview",
+      "type": "pillar"
+    }
+  },
+  {
+    "id": "sca_coaching_services_list_245",
+    "content": "Coaching & Workshop services at Source Code Academia: Personal Coaching with Sahil Adeem (USD 100/hour, for all genders); Business Coaching with Sahil Adeem (USD 500/hour); Personal Coaching with Sadia Khan (USD 100/hour, females only); How to Train Your Dragon – Parenting Workshop Recording (one-time purchase, by Sahil Adeem). Contact Manager Safa at +92 325 5662668 to book Sahil Adeem's sessions.",
+    "metadata": {
+      "page": "Coaching Services",
+      "category": "Coaching",
+      "sub_category": "Services Overview",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "sca_price_arabic_kids_246",
+    "content": "Arabic for Kids (4–12) Pricing: Duration 24 months. Monthly fee PKR 6,900 or USD 34.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Arabic Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_arabic_adults_247",
+    "content": "Arabic for Adults Pricing: Duration 18 months. Monthly fee PKR 6,900 or USD 34.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Arabic Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_arabic_advance_248",
+    "content": "Arabic Advance Pricing: Duration 6 months. Monthly fee PKR 6,900 or USD 34.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Arabic Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_qiraat_tajweed_249",
+    "content": "Qira'at & Tajweed Pricing: Duration 12 months. Monthly fee PKR 6,900 or USD 34.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Arabic Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_mathematics_250",
+    "content": "Mathematics Course Pricing: Duration 48 months. Monthly fee PKR 8,900 or USD 49.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "STEM Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_physics_251",
+    "content": "Physics Course Pricing: Multi-year duration. Monthly fee PKR 8,900 or USD 49.99. Registration fee PKR 20,000 (currently waived).",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "STEM Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_biology_252",
+    "content": "Biology Course Pricing: Multi-year duration. Monthly fee PKR 8,900 or USD 49.99. Registration fee PKR 20,000 or USD 49.99.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "STEM Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_chemistry_253",
+    "content": "Chemistry Course Pricing: Multi-year duration. Monthly fee PKR 8,900 or USD 49.99. Registration fee PKR 20,000 or USD 49.99.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "STEM Courses",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_critical_thinking_254",
+    "content": "Critical Thinking Course Pricing: Duration 6 months. Monthly fee PKR 8,900 or USD 49.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Thought & Skills",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_emotional_intelligence_255",
+    "content": "Emotional Intelligence Course Pricing: Duration 12 months. Monthly fee PKR 8,900 or USD 49.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Thought & Skills",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_teen_mentorship_256",
+    "content": "Teen Mentorship Program (14–19) Pricing: Duration 12 months. Monthly fee PKR 8,900 or USD 49.99. No registration fee.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Thought & Skills",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_islamic_foundation_257",
+    "content": "Islamic Foundation Pricing: Duration 12 months. Monthly fee PKR 9,900 or USD 65.00. Registration fee USD 35.00.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Islamic Studies",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_islamic_political_system_258",
+    "content": "Islamic Political System Pricing: Duration 18 months. Monthly fee PKR 15,000 or USD 80.00. Registration fee PKR 10,000 or USD 35.00.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Islamic Studies",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_al_rahmah_259",
+    "content": "Al-Rahmah (Sunnah Sciences) Pricing: Duration 18 months. Monthly fee PKR 15,000+ or USD 80.00+. Advanced pricing varies based on specialization.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Advanced Islamic Studies",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_at_taweel_260",
+    "content": "At-Ta'weel (Tafseer & Quranic Sciences) Pricing: Duration 18 months. Monthly fee PKR 15,000+ or USD 80.00+. Advanced pricing varies based on specialization.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Pricing",
+      "sub_category": "Advanced Islamic Studies",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_personal_coaching_sahil_261",
+    "content": "Personal Coaching with Sahil Adeem Pricing: USD 100 per hour. Available for all genders.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Coaching",
+      "sub_category": "Services",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_business_coaching_sahil_262",
+    "content": "Business Coaching with Sahil Adeem Pricing: USD 500 per hour.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Coaching",
+      "sub_category": "Services",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_personal_coaching_sadia_263",
+    "content": "Personal Coaching with Sadia Khan (Females only) Pricing: USD 100 per hour.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Coaching",
+      "sub_category": "Services",
+      "type": "pricing"
+    }
+  },
+  {
+    "id": "sca_price_dragon_workshop_264",
+    "content": "How to Train Your Dragon Workshop Recording Pricing: One-time purchase. Price may vary.",
+    "metadata": {
+      "page": "Pricing",
+      "category": "Coaching",
+      "sub_category": "Workshops",
+      "type": "pricing"
+    }
+  }
+]

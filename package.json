@@ -1,0 +1,17 @@
+{
+  "name": "rag-chatbot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ingest": "node ingest.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "groq-sdk": "^0.9.1",
+    "openai": "^6.33.0"
+  }
+}
