@@ -19,20 +19,8 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background: var(--primary);
+      background: transparent;
       overflow: hidden;
-    }
-
-    .bg-pattern {
-      position: fixed;
-      inset: 0;
-      z-index: 0;
-      pointer-events: none;
-      opacity: 0.35;
-      background-image: 
-        radial-gradient(circle at 20% 80%, #416a6a 0%, transparent 50%),
-        radial-gradient(circle at 80% 20%, #2d6565 0%, transparent 50%),
-        radial-gradient(circle at 50% 50%, #4a7575 0%, transparent 70%);
     }
 
     .chat-container {
@@ -304,19 +292,17 @@
     .badge-general { background: #e0e7ff; color: #4338ca; }
 
     /* Responsive Design */
-    @media (max-width: 480px) {
+    @media (max-width: 600px) {
       body {
-        padding: 10px;
-        align-items: flex-start;
-        padding-top: 20px;
+        padding: 0;
+        align-items: center;
       }
 
       .chat-container {
         width: 100%;
-        max-width: 100%;
-        height: calc(100vh - 30px);
-        max-height: calc(100vh - 30px);
-        border-radius: 12px;
+        height: 100vh;
+        max-height: 100vh;
+        border-radius: 0;
       }
 
       .chat-header {
@@ -424,8 +410,6 @@
   </style>
 </head>
 <body>
-
-  <div class="bg-pattern"></div>
 
   <div class="chat-container">
     <div class="chat-header">
