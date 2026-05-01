@@ -2836,5 +2836,646 @@
       "sub_category": "Workshops",
       "type": "pricing"
     }
+  },
+  {
+    "id": "sca_chat_training_265",
+    "content": "Helpline chat analysis summary: The chat database contains 40824 rows from 4994 unique phone numbers between 2026-02-14 and 2026-05-01. Direction 'in' means the customer sent the message, and direction 'out' means Source Code Academia replied. Counts observed: 22166 inbound customer messages and 18655 outbound support replies. The chatbot training data was curated from paired in-to-out support patterns, with greetings, tests, media placeholders, duplicate replies, and private customer identifiers filtered out.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Dataset",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Analysis",
+      "rows_analyzed": 40824,
+      "unique_contacts_analyzed": 4994,
+      "inbound_count": 22166,
+      "outbound_count": 18655
+    }
+  },
+  {
+    "id": "sca_chat_training_266",
+    "content": "Helpline support pattern: When a customer asks how to join, register, enroll, or take admission in any course, guide them to visit https://sourcecode.academy/, click Login, choose Sign up now, fill the registration form, verify the email, log in to the portal, open Courses, choose the desired course, click Reserve your spot, select preferred time and language, add the course, pay the required fee, and then check My Courses. The course may show Pending until the batch launches or a class is assigned.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Enrollment"
+    }
+  },
+  {
+    "id": "sca_chat_training_267",
+    "content": "Helpline support pattern: If a customer asks for a specific course enrollment link, provide the course page link and tell them to tap Reserve your spot and follow the registration steps. If they face any issue, tell them support will guide them.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Enrollment"
+    }
+  },
+  {
+    "id": "sca_chat_training_268",
+    "content": "Helpline support pattern: For Arabic for Adults enrollment, send https://sourcecode.academy/courses-detail/arabic-for-adults and tell the customer to tap Reserve your spot and follow the registration steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Arabic for Adults"
+    }
+  },
+  {
+    "id": "sca_chat_training_269",
+    "content": "Helpline support pattern: For Arabic for Kids enrollment, send https://sourcecode.academy/courses-detail/arabic-for-kids-age-4-to-12 and tell the customer to tap Reserve your spot and follow the registration steps. Arabic for Kids is for ages 4 to 12.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Arabic for Kids"
+    }
+  },
+  {
+    "id": "sca_chat_training_270",
+    "content": "Helpline support pattern: For Qira'at and Tajweed enrollment, send https://sourcecode.academy/courses-detail/quran-online-tajweed-qiraat and tell the customer to tap Reserve your spot and follow the registration steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Qiraat & Tajweed"
+    }
+  },
+  {
+    "id": "sca_chat_training_271",
+    "content": "Helpline support pattern: For Islamic Foundation enrollment, send https://sourcecode.academy/courses-detail/islamic-foundation and tell the customer to tap Reserve your spot and follow the registration steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Islamic Foundation"
+    }
+  },
+  {
+    "id": "sca_chat_training_272",
+    "content": "Helpline support pattern: For Islamic Political System enrollment, send https://sourcecode.academy/courses-detail/islamic-political-system and tell the customer to tap Reserve your spot and follow the registration steps. Customers can also find details of the course on the same page.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Islamic Political System"
+    }
+  },
+  {
+    "id": "sca_chat_training_273",
+    "content": "Helpline support pattern: For Critical Thinking enrollment, guide customers to the current Critical Thinking course page on https://sourcecode.academy/courses, then ask them to select the desired Basic or Advanced track if options are shown, click Reserve your spot, and complete registration.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Critical Thinking"
+    }
+  },
+  {
+    "id": "sca_chat_training_274",
+    "content": "Helpline support pattern: For Teen Mentorship Program enrollment, send https://sourcecode.academy/courses-detail/teen-mentorship-program-14-19-yrs and tell the customer to tap Reserve your spot and follow the registration steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Teen Mentorship"
+    }
+  },
+  {
+    "id": "sca_chat_training_275",
+    "content": "Helpline support pattern: For STEM course enrollment, guide customers to the relevant course pages: Mathematics https://sourcecode.academy/courses-detail/mathematics, Physics https://sourcecode.academy/courses-detail/physics, Biology https://sourcecode.academy/courses-detail/biology, and Chemistry https://sourcecode.academy/courses-detail/chemistry. Ask them to select the course, tap Reserve your spot, and follow registration steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "STEM"
+    }
+  },
+  {
+    "id": "sca_chat_training_276",
+    "content": "Helpline support pattern: For At-Ta'weel / Tafseer and Quranic Sciences, guide customers to https://sourcecode.academy/courses-detail/tafseer-and-quranic-sciences and tell them that details and enrollment steps are available on the course page. If eligibility or interview applies, support should confirm according to current policy.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Advanced Islamic Studies"
+    }
+  },
+  {
+    "id": "sca_chat_training_277",
+    "content": "Helpline support pattern: For Al-Rahmah / The Sunnah & Its Sciences, guide customers to https://sourcecode.academy/courses-detail/the-sunnah-its-sciences and tell them that details and enrollment steps are available on the course page.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Advanced Islamic Studies"
+    }
+  },
+  {
+    "id": "sca_chat_training_278",
+    "content": "Helpline support pattern: If a customer asks for all available courses or academy details, send the main website https://sourcecode.academy and the courses page https://sourcecode.academy/courses, and invite them to ask again if they face confusion.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Course Discovery"
+    }
+  },
+  {
+    "id": "sca_chat_training_279",
+    "content": "Helpline support pattern: If a customer asks how to see a curriculum or syllabus, direct them to https://sourcecode.academy/courses, ask them to open the desired course by clicking Reserve your spot or the course card, then scroll down on that course page to find curriculum details.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Curriculum"
+    }
+  },
+  {
+    "id": "sca_chat_training_280",
+    "content": "Helpline support pattern: If a customer asks why curriculum PDF download is unavailable, explain that the curriculum is displayed on the course page on the website; they can view it there and save screenshots if needed.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Curriculum"
+    }
+  },
+  {
+    "id": "sca_chat_training_281",
+    "content": "Helpline support pattern: For class timings, explain that during enrollment the customer selects a larger 3-hour preferred time slot according to their availability. The actual class is shorter, usually around 30 minutes for many language courses, and the academy adjusts the class within the selected window.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Class Timings"
+    }
+  },
+  {
+    "id": "sca_chat_training_282",
+    "content": "Helpline support pattern: For Arabic language classes, support frequently answered that classes are held 5 days per week, Monday to Friday. Customers should verify the exact current schedule on the course page or during enrollment.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Class Schedule"
+    }
+  },
+  {
+    "id": "sca_chat_training_283",
+    "content": "Helpline support pattern: If enrollment status shows Pending, explain that the status can remain pending until the batch launches and a class or batch is assigned. Once the class is assigned, the enrollment status is updated.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Pending Enrollment"
+    }
+  },
+  {
+    "id": "sca_chat_training_284",
+    "content": "Helpline support pattern: If a customer has already paid and asks when classes will start, explain that they are added to the awaiting list; when the batch launches, cluster managers contact them, add them to relevant groups, and share class joining information.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Batch Launch"
+    }
+  },
+  {
+    "id": "sca_chat_training_285",
+    "content": "Helpline support pattern: If customers ask about next batch start dates, tell them that starting dates are updated on the website calendar/main page at https://sourcecode.academy. They should also follow official announcements for upcoming batches.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Batch Start Dates"
+    }
+  },
+  {
+    "id": "sca_chat_training_286",
+    "content": "Helpline support pattern: If a customer has a class-specific issue after enrollment, ask them to contact their cluster manager through the WhatsApp chat option available at the bottom corner of the student portal.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Cluster Manager"
+    }
+  },
+  {
+    "id": "sca_chat_training_287",
+    "content": "Helpline support pattern: If a customer reports website/login/payment page issues after a new website launch, suggest refreshing the page or opening it again, and explain that the IT team is working to resolve launch-related issues.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Website Support"
+    }
+  },
+  {
+    "id": "sca_chat_training_288",
+    "content": "Helpline support pattern: If a customer asks about secondary/family accounts, explain that they can create a primary account, open the Friends and Family section from the profile menu, add a second member with a different email/password, and then assign courses to that secondary account from the Enrollment page. Invoices for secondary accounts can appear under the primary account.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Friends and Family Account"
+    }
+  },
+  {
+    "id": "sca_chat_training_289",
+    "content": "Helpline support pattern: For phone support requests, support commonly told customers they may call during office hours, typically 9 AM to 6 PM Pakistan time, but exact helpline hours should be checked from the current contact page.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Office Hours"
+    }
+  },
+  {
+    "id": "sca_chat_training_290",
+    "content": "Helpline support pattern: If someone asks whether the academy has an onsite campus, answer that Source Code Academia is an online academy and classes are conducted online.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Online Academy"
+    }
+  },
+  {
+    "id": "sca_chat_training_291",
+    "content": "Helpline support pattern: If someone sends an unrelated message, answer that this is the official helpline of Source Code Academia and it only caters queries related to Source Code courses and the website.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Helpline Scope"
+    }
+  },
+  {
+    "id": "sca_chat_training_292",
+    "content": "Helpline support pattern: If a customer asks for fee details, guide them to the relevant course page because every course page contains its own fee structure and plan details.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Fees"
+    }
+  },
+  {
+    "id": "sca_chat_training_293",
+    "content": "Helpline support pattern: Discount policy observed in helpline replies: students enrolled in 3 courses may receive 30% discount; 4 courses may receive 40%; 5 courses may receive 50%. Support also mentioned a 50% discount for single mothers and scholarship support for IMS members. Discounts should be confirmed against current policy before applying.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Discounts"
+    }
+  },
+  {
+    "id": "sca_chat_training_294",
+    "content": "Helpline support pattern: If a customer asks about IMS scholarship, support replied that IMS members may get scholarship support and shared the scholarship guidance video: https://youtu.be/PSLMCOJQm7M?si=d0IzSOnyrYUsEozj. Confirm current scholarship process before finalizing.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Scholarship"
+    }
+  },
+  {
+    "id": "sca_chat_training_295",
+    "content": "Helpline support pattern: For payment method questions, support commonly answered that fees can be paid through debit/credit card or QR code. Tutorial videos were shared for QR payment in Urdu and English: https://youtu.be/Qkbd-DhM0jY?si=Rf26Bu6rcqxIXzP6 and https://youtu.be/ipb4ZTRc9Vw?si=BPA6De_b_mVX9lWj.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Payment"
+    }
+  },
+  {
+    "id": "sca_chat_training_296",
+    "content": "Helpline support pattern: If a customer asks about refund follow-up, route them to the official refund/support process. The details commonly requested were student name on portal, phone number on portal, login email, refund ticket date, course name, refund amount, reason for refund, payment date, bank account details, and country. Sensitive bank details should only be collected through official secure support channels.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Refund"
+    }
+  },
+  {
+    "id": "sca_chat_training_297",
+    "content": "Helpline support pattern: If a customer asks whether fee can be reduced or they cannot afford a course, explain the available discount/scholarship categories and ask them to contact support through official channels for eligibility and coupon application.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Financial Assistance"
+    }
+  },
+  {
+    "id": "sca_chat_training_298",
+    "content": "Helpline support pattern: Age-wise learning pathway: Arabic for Kids is the starting language foundation for ages 4–12; Qira'at/Tajweed is available for Quran recitation needs; STEM courses such as Mathematics, Physics, Chemistry, and Biology generally begin when the child can handle more complex concepts; older students can move into skill courses such as Emotional Intelligence and Critical Thinking; teenagers can consider Teen Mentorship and Islamic Foundation; advanced Islamic Studies include Islamic Political System, Al-Rahmah, and At-Ta'weel. Always confirm exact age eligibility from the current course page.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Learning Pathway"
+    }
+  },
+  {
+    "id": "sca_chat_training_299",
+    "content": "Helpline support pattern: For a child younger than 4, support answered that Arabic for Kids starts from age 4, so a 3-year-old is not eligible yet under the usual course setup.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Arabic for Kids"
+    }
+  },
+  {
+    "id": "sca_chat_training_300",
+    "content": "Helpline support pattern: For a 4–7 year old child, support commonly recommended Arabic for Kids as the main available course. STEM courses usually open later, around age 8+ according to helpline guidance.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Arabic for Kids"
+    }
+  },
+  {
+    "id": "sca_chat_training_301",
+    "content": "Helpline support pattern: For young children in online Arabic classes, support noted that parents may need to accompany the child initially until attention/focus develops; after that, the child may be able to attend more independently.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Arabic for Kids"
+    }
+  },
+  {
+    "id": "sca_chat_training_302",
+    "content": "Helpline support pattern: If a customer asks the difference between Arabic and Tajweed, explain that Arabic is a complete language, while Tajweed is the correct method of pronouncing Quranic letters and words during recitation.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Arabic and Tajweed"
+    }
+  },
+  {
+    "id": "sca_chat_training_303",
+    "content": "Helpline support pattern: If a customer wants to understand the Quran, suggest a pathway such as Arabic for language foundation, Islamic Foundation for core Islamic studies, and At-Ta'weel/Tafseer & Quranic Sciences for advanced Quranic interpretation, depending on their current level.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Quran Understanding Pathway"
+    }
+  },
+  {
+    "id": "sca_chat_training_304",
+    "content": "Helpline support pattern: If a customer asks whether Qira'at has prerequisites, support replied that there is no strict prerequisite and even a beginner who has not read Quran before can start. Confirm current placement policy from the course page.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Qiraat & Tajweed"
+    }
+  },
+  {
+    "id": "sca_chat_training_305",
+    "content": "Helpline support pattern: If parents ask about homeschooling, explain that Source Code Academia offers courses according to developmental stages and that a full homeschooling project was described as under progress in helpline replies. Parents can still use available courses as part of their homeschooling plan.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Homeschooling"
+    }
+  },
+  {
+    "id": "sca_chat_training_306",
+    "content": "Helpline support pattern: If a customer wants to book a one-on-one session with Sahil Adeem, guide them to the personal counseling/coaching page: https://sourcecode.academy/courses-detail/personal-counseling-coaching-online and ask them to tap Reserve your spot and follow the steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Coaching",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Sahil Adeem"
+    }
+  },
+  {
+    "id": "sca_chat_training_307",
+    "content": "Helpline support pattern: If a customer asks about the parenting workshop, guide them to purchase the How to Train Your Dragon parenting workshop recording through the personal counseling/coaching page: https://sourcecode.academy/courses-detail/personal-counseling-coaching-online and follow Reserve your spot steps.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Coaching",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Parenting Workshop"
+    }
+  },
+  {
+    "id": "sca_chat_training_308",
+    "content": "Helpline support pattern: If customers ask which courses Sahil Adeem personally teaches, helpline replies commonly mentioned Emotional Intelligence, Critical Thinking, and Teen Mentorship Program. Because faculty assignments can change, the chatbot should verify from current course pages before making a firm promise.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Courses",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Faculty"
+    }
+  },
+  {
+    "id": "sca_chat_training_309",
+    "content": "Helpline support pattern: Timings for Sahil Adeem courses such as Critical Thinking and Emotional Intelligence may be decided after batch formation by checking student group preferences against Sir Sahil's schedule.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Class Timings"
+    }
+  },
+  {
+    "id": "sca_chat_training_310",
+    "content": "Helpline support pattern: If someone asks for job openings, send https://sourcecode.academy/jobs and tell them they can check current job opportunities there.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Careers",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Jobs"
+    }
+  },
+  {
+    "id": "sca_chat_training_311",
+    "content": "Helpline support pattern: If someone asks how to apply for a teaching role, guide them to https://sourcecode.academy/ and ask them to open the Teach with Us option to check the form and requirements.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Careers",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Teach With Us"
+    }
+  },
+  {
+    "id": "sca_chat_training_312",
+    "content": "Helpline support pattern: If someone asks where to send a CV, tell them to send it to hr@sourcecode.com.pk.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Careers",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "CV Submission"
+    }
+  },
+  {
+    "id": "sca_chat_training_313",
+    "content": "Helpline support pattern: If a customer asks about degrees, government affiliation, or certificates, answer carefully: Source Code Academia is not a government-affiliated degree-awarding institute. Course completion certificates may be available only where the current course page states it, but they should not be presented as government degrees.",
+    "metadata": {
+      "page": "Helpline Chats",
+      "category": "Support",
+      "type": "chatbot_training",
+      "source_file": "helpline_chats.csv",
+      "source_direction": "in_to_out",
+      "pii_handling": "customer identifiers removed; raw phone numbers and private customer details were not appended",
+      "sub_category": "Certificates"
+    }
   }
 ]
