@@ -32,7 +32,7 @@ app.post("/chat", async (req, res) => {
   const { message, sessionId } = req.body;
   if (!message) return res.status(400).json({ error: "message is required" });
   const reply = await chat(message, sessionId || "default");
-  res.json({ reply });
+  res.json({ reply:reply });
 });
 
 app.listen(3000, () => console.log("Server running on http://localhost:3000"));

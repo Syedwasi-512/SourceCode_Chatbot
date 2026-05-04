@@ -6,7 +6,11 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap"
+      rel="stylesheet"
+    />
     <title>SourceCode Assistant</title>
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap");
@@ -113,6 +117,11 @@
         -webkit-overflow-scrolling: touch;
       }
 
+      .chat-messages a {
+        color: #007bff;
+        text-decoration: underline;
+        word-wrap: break-word;
+      }
       .message {
         max-width: 85%;
         padding: 10px 14px;
@@ -222,7 +231,7 @@
       <div class="chat-header">
         <div class="logo">📚</div>
         <div class="header-info">
-          <h2 class="brand-name">SOURCE<span>CODE</span> </h2>
+          <h2 class="brand-name">SOURCE<span>CODE</span></h2>
           <p>ACADEMIA</p>
         </div>
       </div>
@@ -251,13 +260,30 @@
       const inputField = document.getElementById("userInput");
       const sendBtn = document.getElementById("sendBtn");
 
+      // index.html mein marked configuration ko is se update karein
+      const renderer = new marked.Renderer();
+
+      // Naye version ke mutabik link logic
+      renderer.link = ({ href, title, text }) => {
+        return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
+      };
+
+      marked.setOptions({ renderer: renderer });
+
       function addMessage(text, role, type = null) {
         const msg = document.createElement("div");
         msg.className = `message ${role}`;
         let badge = type
           ? `<span class="badge badge-${type}">${type}</span><br>`
           : "";
-        msg.innerHTML = badge + text.replace(/\n/g, "<br>");
+
+        // Bot ke response ko Markdown parse karna lazmi hai
+        if (role === "bot" && text !== "...") {
+          msg.innerHTML = badge + marked.parse(text);
+        } else {
+          msg.innerHTML = badge + text.replace(/\n/g, "<br>");
+        }
+
         messagesDiv.appendChild(msg);
         messagesDiv.scrollTop = messagesDiv.scrollHeight;
         return msg;
@@ -283,11 +309,22 @@
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ message: text }),
           });
+
           const data = await response.json();
-          typing.remove();
-          addMessage(data.reply, "bot");
+          typing.remove(); // Purana indicator hatayien
+
+          if (data.reply) {
+            addMessage(data.reply, "bot"); // Data ke andar se reply nikaal kar show karein
+          } else {
+            addMessage("I am sorry, I couldn't get a response.", "bot");
+          }
         } catch (err) {
-          typing.innerHTML = "Connection error. Please try again.";
+          typing.remove();
+          addMessage(
+            "Connection error. Please check your internet or balance.",
+            "bot",
+          );
+          console.error("Error:", err);
         }
       }
 
