@@ -1,12 +1,15 @@
 import dotenv from "dotenv";
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import Groq from "groq-sdk";
+import { OpenAI } from "openai";
 import { createClient } from "@supabase/supabase-js";
 
 dotenv.config();
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const deepseek = new OpenAI({ 
+  apiKey: process.env.DEEPSEEK_API_KEY,
+  baseURL: "https://api.deepseek.com"
+});
 const supabase = createClient(
   process.env.SUPABASE_URL,
   process.env.SUPABASE_KEY,
@@ -44,8 +47,8 @@ export async function chat(userMessage, sessionId = "default") {
 
     history.push({ role: "user", content: userMessage });
 
-    const completion = await groq.chat.completions.create({
-      model: "llama-3.3-70b-versatile",
+    const completion = await deepseek.chat.completions.create({
+      model: "deepseek-chat",
       messages: [
         {
           role: "system",
@@ -87,7 +90,6 @@ ${context}`,
 
     const reply = completion.choices[0].message.content;
     history.push({ role: "assistant", content: reply });
-    history.push({ role: "user", content: userMessage });
     return reply;
   } catch (err) {
     console.error("Chat error:", err);
